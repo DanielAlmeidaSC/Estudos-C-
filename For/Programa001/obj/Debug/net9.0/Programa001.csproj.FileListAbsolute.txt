@@ -1,0 +1,14 @@
+d:\Estudos C#\For\Programa001\bin\Debug\net9.0\Programa001.exe
+d:\Estudos C#\For\Programa001\bin\Debug\net9.0\Programa001.deps.json
+d:\Estudos C#\For\Programa001\bin\Debug\net9.0\Programa001.runtimeconfig.json
+d:\Estudos C#\For\Programa001\bin\Debug\net9.0\Programa001.dll
+d:\Estudos C#\For\Programa001\bin\Debug\net9.0\Programa001.pdb
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.GeneratedMSBuildEditorConfig.editorconfig
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.AssemblyInfoInputs.cache
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.AssemblyInfo.cs
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.csproj.CoreCompileInputs.cache
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.dll
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\refint\Programa001.dll
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.pdb
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\Programa001.genruntimeconfig.cache
+d:\Estudos C#\For\Programa001\obj\Debug\net9.0\ref\Programa001.dll

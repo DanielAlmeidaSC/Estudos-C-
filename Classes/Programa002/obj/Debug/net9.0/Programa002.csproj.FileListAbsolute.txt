@@ -1,0 +1,14 @@
+d:\Estudos C#\Classes\Programa002\bin\Debug\net9.0\Programa002.exe
+d:\Estudos C#\Classes\Programa002\bin\Debug\net9.0\Programa002.deps.json
+d:\Estudos C#\Classes\Programa002\bin\Debug\net9.0\Programa002.runtimeconfig.json
+d:\Estudos C#\Classes\Programa002\bin\Debug\net9.0\Programa002.dll
+d:\Estudos C#\Classes\Programa002\bin\Debug\net9.0\Programa002.pdb
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.GeneratedMSBuildEditorConfig.editorconfig
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.AssemblyInfoInputs.cache
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.AssemblyInfo.cs
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.csproj.CoreCompileInputs.cache
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.dll
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\refint\Programa002.dll
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.pdb
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\Programa002.genruntimeconfig.cache
+d:\Estudos C#\Classes\Programa002\obj\Debug\net9.0\ref\Programa002.dll

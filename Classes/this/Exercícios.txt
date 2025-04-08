@@ -1,0 +1,34 @@
+1. Atribuindo Valores com this
+Crie uma classe Pessoa com os atributos Nome e Idade. No construtor, utilize this para diferenciar entre os parâmetros e os atributos da classe.
+Depois, crie um método ExibirInfo que mostre os dados no console.
+
+2. Encadeando Construtores com this()
+Crie uma classe Produto com dois construtores:
+
+Um que recebe apenas o nome.
+
+Outro que recebe nome e preço.
+
+O construtor que recebe só o nome deve chamar o outro usando this().
+Adicione um método Mostrar para exibir os dados.
+
+3. Passando this como parâmetro
+Crie uma classe Carro com um atributo Modelo e um método MostrarModelo().
+Crie também uma classe Exibidor com um método que recebe um objeto Carro e chama MostrarModelo().
+Na classe Carro, crie um método EnviarParaExibicao que use this para passar a instância atual ao método da classe Exibidor.
+
+4. Métodos Fluent com this
+Crie uma classe Pedido com os atributos item e quantidade.
+Implemente dois métodos:
+
+DefinirItem(string item)
+
+DefinirQuantidade(int quantidade)
+
+Ambos devem retornar this, permitindo encadear os métodos.
+Adicione um método Mostrar para exibir os dados.
+
+5. Usando this em propriedades
+Crie uma classe Aluno com um campo privado nome e uma propriedade pública Nome (com get e set).
+Use this dentro dos acessores para referenciar o campo.
+Crie um método Exibir() que mostra o nome do aluno.
