@@ -1,0 +1,15 @@
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.AssemblyInfoInputs.cache
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.AssemblyInfo.cs
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.sourcelink.json
+D:\Estudos C#\Classes\Vetores\Programa002\bin\Debug\net9.0\Programa002.exe
+D:\Estudos C#\Classes\Vetores\Programa002\bin\Debug\net9.0\Programa002.deps.json
+D:\Estudos C#\Classes\Vetores\Programa002\bin\Debug\net9.0\Programa002.runtimeconfig.json
+D:\Estudos C#\Classes\Vetores\Programa002\bin\Debug\net9.0\Programa002.dll
+D:\Estudos C#\Classes\Vetores\Programa002\bin\Debug\net9.0\Programa002.pdb
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.dll
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\refint\Programa002.dll
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.pdb
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\Programa002.genruntimeconfig.cache
+D:\Estudos C#\Classes\Vetores\Programa002\obj\Debug\net9.0\ref\Programa002.dll
