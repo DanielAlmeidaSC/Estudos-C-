@@ -1,0 +1,6 @@
+1. Pessoa e Endereço
+Crie uma struct Endereco com Rua, Numero, Cidade.
+
+Crie uma classe Pessoa com Nome, Idade e um campo Endereco.
+
+No método ExibirDados() da classe, mostre os dados da pessoa e do endereço.

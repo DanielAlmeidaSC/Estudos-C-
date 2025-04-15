@@ -1,0 +1,15 @@
+D:\Estudos C#\Classes\Privates\Programa007\bin\Debug\net9.0\Programa007.exe
+D:\Estudos C#\Classes\Privates\Programa007\bin\Debug\net9.0\Programa007.deps.json
+D:\Estudos C#\Classes\Privates\Programa007\bin\Debug\net9.0\Programa007.runtimeconfig.json
+D:\Estudos C#\Classes\Privates\Programa007\bin\Debug\net9.0\Programa007.dll
+D:\Estudos C#\Classes\Privates\Programa007\bin\Debug\net9.0\Programa007.pdb
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.AssemblyInfoInputs.cache
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.AssemblyInfo.cs
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.sourcelink.json
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.dll
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\refint\Programa007.dll
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.pdb
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\Programa007.genruntimeconfig.cache
+D:\Estudos C#\Classes\Privates\Programa007\obj\Debug\net9.0\ref\Programa007.dll

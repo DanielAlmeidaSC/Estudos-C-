@@ -1,0 +1,42 @@
+Exercícios Básicos (1–10)
+Criar uma classe Pessoa com os atributos privados nome e idade, e properties públicas. Depois, instanciar a classe e imprimir os dados.
+
+Classe Produto com os atributos nome, preco e quantidade. Criar uma property que retorna o valor total do estoque (preco * quantidade).
+
+Classe Carro com atributos privados marca, modelo, ano. Criar properties que só permitem ano >= 1886 (primeiro carro da história).
+
+Classe Funcionario com atributo privado salario. Criar uma property que só permite modificar o salário se for maior que zero.
+
+Classe Aluno com os atributos privados nome, nota1, nota2. Criar uma property Media (só leitura) que calcula a média.
+
+Classe Livro com titulo e paginas. Criar property que verifica se o número de páginas é maior que zero antes de setar.
+
+Classe ContaBancaria com atributo saldo. Criar properties para Depositar e Sacar, validando as operações.
+
+Classe Retangulo com largura e altura. Criar uma property Area e Perimetro (somente leitura).
+
+Classe Temperatura com atributo privado celsius. Criar property que retorna a temperatura em Fahrenheit.
+
+Classe Relogio com atributo hora e minuto. Criar propriedades que validam a faixa dos valores (0–23 e 0–59).
+
+🔁 Exercícios Intermediários (11–20)
+Classe Endereco com rua, numero, cidade, estado. Criar uma property EnderecoCompleto (read-only).
+
+Classe EstoqueProduto com atributo quantidade. Criar uma property que avisa quando o estoque está baixo (ex: < 5).
+
+Classe Senha com atributo senha. Criar uma property que só permite alterar a senha se tiver pelo menos 8 caracteres.
+
+Classe Usuario com atributos nome, email. Criar uma property para validar o formato do email (simples).
+
+Classe Aluno com matricula, nome, notaFinal. Criar property Aprovado (bool) que retorna true se nota >= 7.
+
+Classe Triangulo com ladoA, ladoB, ladoC. Criar property que verifica se é um triângulo válido (regra da soma dos lados).
+
+Classe Pet com atributos nome, idade. Criar uma property que retorna a idade em anos "humanos" (idade * 7).
+
+Classe Veiculo com velocidadeMaxima. Criar property que impede definir uma velocidade negativa.
+
+Classe ContaCorrente com limite e saldo. Criar property que valida se o saque não ultrapassa o limite.
+
+Classe Jogo com pontuacao, nivel. Criar property que atualiza o nível a cada 1000 pontos.
+

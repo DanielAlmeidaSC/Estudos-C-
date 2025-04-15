@@ -1,0 +1,6 @@
+3. Veículo e Dimensões
+Crie uma struct Dimensao com Comprimento, Largura e Altura.
+
+Crie uma classe Veiculo com Modelo, Marca e as dimensões.
+
+Adicione um método que calcule o volume do veículo.

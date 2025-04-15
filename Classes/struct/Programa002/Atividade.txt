@@ -1,0 +1,6 @@
+2. Produto e Preço
+Crie uma struct Preco com ValorBase e Desconto.
+
+Crie uma classe Produto com Nome, Categoria, e um campo Preco.
+
+Adicione um método que retorne o valor final com desconto.
