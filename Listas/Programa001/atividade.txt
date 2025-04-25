@@ -1,0 +1,2 @@
+🧪 1. Cadastrar N nomes e imprimir com foreach
+Descrição: Peça ao usuário quantos nomes deseja cadastrar, salve-os em uma lista e imprima todos com foreach. 
