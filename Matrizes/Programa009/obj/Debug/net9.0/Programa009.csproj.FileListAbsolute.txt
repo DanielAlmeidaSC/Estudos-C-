@@ -1,0 +1,15 @@
+D:\Estudos C#\Matrizes\Programa009\bin\Debug\net9.0\Programa009.exe
+D:\Estudos C#\Matrizes\Programa009\bin\Debug\net9.0\Programa009.deps.json
+D:\Estudos C#\Matrizes\Programa009\bin\Debug\net9.0\Programa009.runtimeconfig.json
+D:\Estudos C#\Matrizes\Programa009\bin\Debug\net9.0\Programa009.dll
+D:\Estudos C#\Matrizes\Programa009\bin\Debug\net9.0\Programa009.pdb
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.AssemblyInfoInputs.cache
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.AssemblyInfo.cs
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.sourcelink.json
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.dll
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\refint\Programa009.dll
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.pdb
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\Programa009.genruntimeconfig.cache
+D:\Estudos C#\Matrizes\Programa009\obj\Debug\net9.0\ref\Programa009.dll
