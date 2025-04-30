@@ -12,3 +12,4 @@ d:\Estudos C#\Classes\Programa001\obj\Debug\net9.0\refint\Programa001.dll
 d:\Estudos C#\Classes\Programa001\obj\Debug\net9.0\Programa001.pdb
 d:\Estudos C#\Classes\Programa001\obj\Debug\net9.0\Programa001.genruntimeconfig.cache
 d:\Estudos C#\Classes\Programa001\obj\Debug\net9.0\ref\Programa001.dll
+D:\Estudos C#\Classes\Programa001\obj\Debug\net9.0\Programa001.sourcelink.json

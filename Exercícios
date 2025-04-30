@@ -1,0 +1,165 @@
+
+## ✅ 10 exercícios usando **`var`**
+1. Crie 3 variáveis do tipo inteiro usando `var` e some os valores.
+2. Crie uma variável `var` que recebe o resultado de uma divisão de dois números.
+3. Use `var` para armazenar o resultado de uma chamada de função que retorna uma `string`.
+4. Crie uma lista de `int` usando `var` e adicione alguns números.
+5. Crie um `Dictionary<string, int>` usando `var`.
+6. Use `var` para capturar o resultado de uma operação booleana.
+9. Faça um loop `foreach` usando `var` para percorrer um array.
+10. Crie uma função que retorna um objeto anônimo e capture com `var`.
+
+---
+
+## ✅ 10 exercícios usando **`switch case`**
+1. Ler um número de 1 a 7 e imprimir o dia da semana.
+2. Ler uma letra (A, B, C) e imprimir o nome de um animal.
+3. Ler uma opção de menu (1-4) e executar uma ação diferente.
+4. Criar um sistema de cores (Red, Blue, Green) usando `switch`.
+5. Ler a nota de um aluno (A, B, C, D, F) e exibir conceito.
+6. Um `switch` para definir o nível de um game player (Beginner, Intermediate, Advanced).
+7. Ler um mês e exibir a estação correspondente.
+8. Criar uma pequena calculadora usando `switch` (+, -, *, /).
+9. Verificar o tipo de transporte escolhido (Carro, Avião, Trem).
+10. Criar um programa que lê uma tecla e responde diferente para cada tecla (W, A, S, D).
+
+---
+
+## ✅ 10 exercícios usando **`if ternário`**
+1. Ler um número e dizer se é positivo ou negativo usando ternário.
+2. Verificar se uma pessoa é maior ou menor de idade.
+3. Dizer se o número é par ou ímpar.
+4. Atribuir "Aprovado" ou "Reprovado" dependendo da nota.
+5. Definir se um ano é bissexto ou não.
+6. Definir se uma string é vazia ou não.
+7. Verificar se o salário é acima de 2000 ou não.
+8. Ler dois números e imprimir o maior usando ternário.
+9. Determinar se o usuário tem permissão de acesso (idade >= 18).
+10. Mostrar "Ligado" ou "Desligado" dependendo de uma variável booleana.
+
+---
+
+## ✅ 20 exercícios usando **funções de `string`**
+1. Leia uma string e transforme em minúscula.
+2. Leia uma string e transforme em maiúscula.
+3. Conte o número de caracteres de uma string.
+4. Leia uma string e remova espaços extras.
+5. Leia uma string e recorte os 5 primeiros caracteres.
+6. Leia uma string e substitua "a" por "e".
+7. Verifique se uma string contém uma determinada palavra.
+8. Verifique se uma string começa com "Hello".
+9. Verifique se uma string termina com "World".
+10. Divida uma frase em palavras e imprima cada uma.
+11. Junte um array de strings em uma única string separada por vírgula.
+12. Encontre a posição da primeira ocorrência de uma letra.
+13. Encontre a posição da última ocorrência de uma letra.
+14. Remova parte de uma string (Substring + Remove).
+15. Troque todas as ocorrências de "C#" por "Java".
+16. Leia uma string e inverta a ordem dos caracteres.
+17. Leia uma frase e conte quantas vezes aparece a letra "e".
+18. Leia uma string e verifique se ela é um palíndromo.
+19. Faça um Replace para tirar todos os números de uma string.
+20. Remova os acentos de uma string.
+
+---
+
+## ✅ 20 exercícios usando **`ToString`** e 10 usando **`CultureInfo`**
+
+### ToString:
+1. Converter um número inteiro para string.
+2. Converter um número double para string com duas casas decimais.
+3. Exibir um número com separador de milhar.
+4. Converter um DateTime para string padrão.
+5. Converter um DateTime para string customizada (`"dd/MM/yyyy"`).
+6. Converter um booleano para string.
+7. Exibir um número como percentual.
+8. Exibir um número como moeda.
+9. Converter TimeSpan para string.
+10. Exibir um valor decimal com formatação fixa.
+
+11. Criar uma formatação personalizada para datas (e.g. `"yyyy-MM-dd HH:mm"`).
+12. Exibir um número em formato hexadecimal.
+13. Exibir uma string interpolada com ToString.
+14. Formatar um número com notação científica.
+15. Exibir o dia da semana de uma data como string.
+16. Exibir um TimeSpan em horas e minutos formatados.
+17. Formatar um double como moeda em euro.
+18. Exibir um valor em octal usando ToString (não nativo, criar função).
+19. Converter um valor enum para string.
+20. Criar uma formatação condicional (positivo = verde, negativo = vermelho) com ToString.
+
+---
+
+### CultureInfo:
+1. Exibir a data atual em cultura portuguesa.
+2. Exibir a data atual em cultura americana.
+3. Exibir um número formatado para Alemanha (vírgula como separador decimal).
+4. Formatar valor monetário para Japão (JPY).
+5. Formatar uma data para formato francês.
+6. Alterar a cultura corrente da thread.
+7. Comparar duas strings ignorando cultura.
+8. Formatar número decimal usando CultureInfo.InvariantCulture.
+9. Formatar data/hora usando CultureInfo específica.
+10. Ler um número formatado em outra cultura.
+
+---
+
+## ✅ 20 exercícios usando **`DateTime`**
+1. Pegar a data atual.
+2. Pegar o ano atual.
+3. Pegar o mês atual.
+4. Pegar o dia atual.
+5. Adicionar 10 dias à data atual.
+6. Subtrair 5 dias da data atual.
+7. Adicionar 3 meses à data atual.
+8. Pegar o primeiro dia do mês.
+9. Pegar o último dia do mês.
+10. Verificar se um ano é bissexto usando DateTime.
+11. Calcular a diferença de dias entre duas datas.
+12. Verificar se uma data é antes de hoje.
+13. Verificar se uma data é depois de hoje.
+14. Formatar a data para "dd/MM/yyyy".
+15. Criar uma data específica (Ex: 15/08/2020).
+16. Obter o dia da semana de uma data.
+17. Obter a hora atual.
+18. Comparar duas datas.
+19. Verificar se duas datas são iguais.
+20. Calcular a idade de uma pessoa (data de nascimento).
+
+---
+
+## ✅ 20 exercícios usando **`TimeSpan`**
+1. Criar um TimeSpan de 1 hora.
+2. Criar um TimeSpan de 30 minutos.
+3. Somar dois TimeSpan.
+4. Subtrair dois TimeSpan.
+5. Multiplicar um TimeSpan por um número.
+6. Dividir um TimeSpan por um número.
+7. Obter total de minutos de um TimeSpan.
+8. Obter total de segundos de um TimeSpan.
+9. Comparar dois TimeSpan.
+10. Verificar se um TimeSpan é negativo.
+11. Converter TimeSpan para string.
+12. Criar um TimeSpan a partir de horas e minutos.
+13. Criar um TimeSpan a partir de dias.
+14. Verificar se o TimeSpan é zero.
+15. Pegar o valor absoluto de um TimeSpan.
+16. Usar o método `FromMinutes` para criar um TimeSpan.
+17. Usar o método `FromHours` para criar um TimeSpan.
+18. Usar o método `FromDays` para criar um TimeSpan.
+19. Pegar apenas a parte das horas de um TimeSpan.
+20. Pegar apenas a parte dos segundos de um TimeSpan.
+
+---
+
+## ✅ 10 exercícios usando **`DateTimeKind`**
+1. Criar um DateTime com DateTimeKind.Utc.
+2. Criar um DateTime com DateTimeKind.Local.
+3. Criar um DateTime com DateTimeKind.Unspecified.
+4. Checar o Kind de um DateTime.
+5. Converter DateTimeKind de Local para Utc.
+6. Converter DateTimeKind de Utc para Local.
+7. Comparar dois DateTimes com Kinds diferentes.
+8. Serializar DateTime como Utc para JSON.
+9. Definir DateTimeKind explicitamente usando `DateTime.SpecifyKind`.
+10. Exibir o Kind de DateTime antes e depois de uma conversão.

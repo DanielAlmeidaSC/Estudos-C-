@@ -1,0 +1,15 @@
+D:\Estudos C#\var\programa005\bin\Debug\net9.0\programa005.exe
+D:\Estudos C#\var\programa005\bin\Debug\net9.0\programa005.deps.json
+D:\Estudos C#\var\programa005\bin\Debug\net9.0\programa005.runtimeconfig.json
+D:\Estudos C#\var\programa005\bin\Debug\net9.0\programa005.dll
+D:\Estudos C#\var\programa005\bin\Debug\net9.0\programa005.pdb
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.AssemblyInfoInputs.cache
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.AssemblyInfo.cs
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.csproj.CoreCompileInputs.cache
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.sourcelink.json
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.dll
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\refint\programa005.dll
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.pdb
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\programa005.genruntimeconfig.cache
+D:\Estudos C#\var\programa005\obj\Debug\net9.0\ref\programa005.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos C#\\classes\\Programa001\\Programa001.csproj",
+      "projectUniqueName": "D:\\Estudos C#\\Classes\\Programa001\\Programa001.csproj",
       "projectName": "Programa001",
-      "projectPath": "D:\\Estudos C#\\classes\\Programa001\\Programa001.csproj",
+      "projectPath": "D:\\Estudos C#\\Classes\\Programa001\\Programa001.csproj",
       "packagesPath": "C:\\Users\\DANIE\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos C#\\classes\\Programa001\\obj\\",
+      "outputPath": "D:\\Estudos C#\\Classes\\Programa001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DANIE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
