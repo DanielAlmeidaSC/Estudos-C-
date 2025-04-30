@@ -1,0 +1,15 @@
+D:\Estudos C#\switchCase\programa008\bin\Debug\net9.0\programa008.exe
+D:\Estudos C#\switchCase\programa008\bin\Debug\net9.0\programa008.deps.json
+D:\Estudos C#\switchCase\programa008\bin\Debug\net9.0\programa008.runtimeconfig.json
+D:\Estudos C#\switchCase\programa008\bin\Debug\net9.0\programa008.dll
+D:\Estudos C#\switchCase\programa008\bin\Debug\net9.0\programa008.pdb
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.AssemblyInfoInputs.cache
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.AssemblyInfo.cs
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.csproj.CoreCompileInputs.cache
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.sourcelink.json
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.dll
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\refint\programa008.dll
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.pdb
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\programa008.genruntimeconfig.cache
+D:\Estudos C#\switchCase\programa008\obj\Debug\net9.0\ref\programa008.dll

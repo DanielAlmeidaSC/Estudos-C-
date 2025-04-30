@@ -6,8 +6,8 @@
 4. Crie uma lista de `int` usando `var` e adicione alguns números.
 5. Crie um `Dictionary<string, int>` usando `var`.
 6. Use `var` para capturar o resultado de uma operação booleana.
-9. Faça um loop `foreach` usando `var` para percorrer um array.
-10. Crie uma função que retorna um objeto anônimo e capture com `var`.
+7. Faça um loop `foreach` usando `var` para percorrer um array.
+8. Crie uma função que retorna um objeto anônimo e capture com `var`.
 
 ---
 
@@ -16,12 +16,11 @@
 2. Ler uma letra (A, B, C) e imprimir o nome de um animal.
 3. Ler uma opção de menu (1-4) e executar uma ação diferente.
 4. Criar um sistema de cores (Red, Blue, Green) usando `switch`.
-5. Ler a nota de um aluno (A, B, C, D, F) e exibir conceito.
-6. Um `switch` para definir o nível de um game player (Beginner, Intermediate, Advanced).
-7. Ler um mês e exibir a estação correspondente.
-8. Criar uma pequena calculadora usando `switch` (+, -, *, /).
-9. Verificar o tipo de transporte escolhido (Carro, Avião, Trem).
-10. Criar um programa que lê uma tecla e responde diferente para cada tecla (W, A, S, D).
+5. Um `switch` para definir o nível de um game player (Beginner, Intermediate, Advanced).
+6. Ler um mês e exibir a estação correspondente.
+7. Criar uma pequena calculadora usando `switch` (+, -, *, /).
+8. Verificar o tipo de transporte escolhido (Carro, Avião, Trem).
+9. Criar um programa que lê uma tecla e responde diferente para cada tecla (W, A, S, D).
 
 ---
 
