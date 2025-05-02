@@ -1,0 +1,3 @@
+As atividades nesse programa são:
+12. Verificar se uma data é antes de hoje.
+13. Verificar se uma data é depois de hoje.

@@ -1,0 +1,4 @@
+1. Criar um TimeSpan de 1 hora.
+2. Criar um TimeSpan de 30 minutos.
+3. Somar dois TimeSpan.
+4. Subtrair dois TimeSpan.

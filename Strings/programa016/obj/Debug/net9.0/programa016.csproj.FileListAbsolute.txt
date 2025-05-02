@@ -1,0 +1,15 @@
+D:\Estudos C#\Strings\programa016\bin\Debug\net9.0\programa016.exe
+D:\Estudos C#\Strings\programa016\bin\Debug\net9.0\programa016.deps.json
+D:\Estudos C#\Strings\programa016\bin\Debug\net9.0\programa016.runtimeconfig.json
+D:\Estudos C#\Strings\programa016\bin\Debug\net9.0\programa016.dll
+D:\Estudos C#\Strings\programa016\bin\Debug\net9.0\programa016.pdb
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.AssemblyInfoInputs.cache
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.AssemblyInfo.cs
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.sourcelink.json
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.dll
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\refint\programa016.dll
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.pdb
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\programa016.genruntimeconfig.cache
+D:\Estudos C#\Strings\programa016\obj\Debug\net9.0\ref\programa016.dll

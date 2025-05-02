@@ -1,0 +1,2 @@
+5. Multiplicar um TimeSpan por um número.
+6. Dividir um TimeSpan por um número.

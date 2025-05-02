@@ -1,0 +1,2 @@
+Obter total de minutos de um TimeSpan.
+Obter total de segundos de um TimeSpan.

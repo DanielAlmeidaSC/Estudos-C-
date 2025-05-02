@@ -1,0 +1,15 @@
+D:\Estudos C#\Strings\programa012\bin\Debug\net9.0\programa012.exe
+D:\Estudos C#\Strings\programa012\bin\Debug\net9.0\programa012.deps.json
+D:\Estudos C#\Strings\programa012\bin\Debug\net9.0\programa012.runtimeconfig.json
+D:\Estudos C#\Strings\programa012\bin\Debug\net9.0\programa012.dll
+D:\Estudos C#\Strings\programa012\bin\Debug\net9.0\programa012.pdb
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.AssemblyInfoInputs.cache
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.AssemblyInfo.cs
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.sourcelink.json
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.dll
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\refint\programa012.dll
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.pdb
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\programa012.genruntimeconfig.cache
+D:\Estudos C#\Strings\programa012\obj\Debug\net9.0\ref\programa012.dll

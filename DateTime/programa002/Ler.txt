@@ -1,0 +1,7 @@
+Aqui está as seguintes questões:
+
+5. Adicionar 10 dias à data atual.
+6. Subtrair 5 dias da data atual.
+7. Adicionar 3 meses à data atual.
+8. Pegar o primeiro dia do mês.
+9. Pegar o último dia do mês.

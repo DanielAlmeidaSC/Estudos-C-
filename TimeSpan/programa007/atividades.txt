@@ -1,0 +1,3 @@
+16. Usar o método `FromMinutes` para criar um TimeSpan.
+17. Usar o método `FromHours` para criar um TimeSpan.
+18. Usar o método `FromDays` para criar um TimeSpan.

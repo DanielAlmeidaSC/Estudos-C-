@@ -1,5 +1,5 @@
 
-## ✅ 10 exercícios usando **`var`**
+## ✅ 8 exercícios usando **`var`**
 1. Crie 3 variáveis do tipo inteiro usando `var` e some os valores.
 2. Crie uma variável `var` que recebe o resultado de uma divisão de dois números.
 3. Use `var` para armazenar o resultado de uma chamada de função que retorna uma `string`.
@@ -11,7 +11,7 @@
 
 ---
 
-## ✅ 10 exercícios usando **`switch case`**
+## ✅ 9 exercícios usando **`switch case`**
 1. Ler um número de 1 a 7 e imprimir o dia da semana.
 2. Ler uma letra (A, B, C) e imprimir o nome de um animal.
 3. Ler uma opção de menu (1-4) e executar uma ação diferente.
@@ -38,7 +38,7 @@
 
 ---
 
-## ✅ 20 exercícios usando **funções de `string`**
+## ✅ 16 exercícios usando **funções de `string`**
 1. Leia uma string e transforme em minúscula.
 2. Leia uma string e transforme em maiúscula.
 3. Conte o número de caracteres de uma string.
@@ -54,38 +54,21 @@
 13. Encontre a posição da última ocorrência de uma letra.
 14. Remova parte de uma string (Substring + Remove).
 15. Troque todas as ocorrências de "C#" por "Java".
-16. Leia uma string e inverta a ordem dos caracteres.
-17. Leia uma frase e conte quantas vezes aparece a letra "e".
-18. Leia uma string e verifique se ela é um palíndromo.
-19. Faça um Replace para tirar todos os números de uma string.
-20. Remova os acentos de uma string.
+16. Leia uma frase e conte quantas vezes aparece a letra "e".
 
 ---
 
-## ✅ 20 exercícios usando **`ToString`** e 10 usando **`CultureInfo`**
+## ✅ 08 exercícios usando **`ToString`** e 6 usando **`CultureInfo`**
 
 ### ToString:
 1. Converter um número inteiro para string.
 2. Converter um número double para string com duas casas decimais.
 3. Exibir um número com separador de milhar.
-4. Converter um DateTime para string padrão.
-5. Converter um DateTime para string customizada (`"dd/MM/yyyy"`).
-6. Converter um booleano para string.
-7. Exibir um número como percentual.
-8. Exibir um número como moeda.
-9. Converter TimeSpan para string.
-10. Exibir um valor decimal com formatação fixa.
+4. Converter um booleano para string.
+5. Exibir um número como percentual.
+6. Exibir um número como moeda.
+8. Exibir um valor decimal com formatação fixa.
 
-11. Criar uma formatação personalizada para datas (e.g. `"yyyy-MM-dd HH:mm"`).
-12. Exibir um número em formato hexadecimal.
-13. Exibir uma string interpolada com ToString.
-14. Formatar um número com notação científica.
-15. Exibir o dia da semana de uma data como string.
-16. Exibir um TimeSpan em horas e minutos formatados.
-17. Formatar um double como moeda em euro.
-18. Exibir um valor em octal usando ToString (não nativo, criar função).
-19. Converter um valor enum para string.
-20. Criar uma formatação condicional (positivo = verde, negativo = vermelho) com ToString.
 
 ---
 
@@ -95,11 +78,7 @@
 3. Exibir um número formatado para Alemanha (vírgula como separador decimal).
 4. Formatar valor monetário para Japão (JPY).
 5. Formatar uma data para formato francês.
-6. Alterar a cultura corrente da thread.
-7. Comparar duas strings ignorando cultura.
-8. Formatar número decimal usando CultureInfo.InvariantCulture.
-9. Formatar data/hora usando CultureInfo específica.
-10. Ler um número formatado em outra cultura.
+6. Ler um número formatado em outra cultura.
 
 ---
 
@@ -117,13 +96,8 @@
 11. Calcular a diferença de dias entre duas datas.
 12. Verificar se uma data é antes de hoje.
 13. Verificar se uma data é depois de hoje.
-14. Formatar a data para "dd/MM/yyyy".
-15. Criar uma data específica (Ex: 15/08/2020).
-16. Obter o dia da semana de uma data.
-17. Obter a hora atual.
-18. Comparar duas datas.
-19. Verificar se duas datas são iguais.
-20. Calcular a idade de uma pessoa (data de nascimento).
+14. Obter a hora atual.
+15. Calcular a idade de uma pessoa (data de nascimento).
 
 ---
 
@@ -136,7 +110,6 @@
 6. Dividir um TimeSpan por um número.
 7. Obter total de minutos de um TimeSpan.
 8. Obter total de segundos de um TimeSpan.
-9. Comparar dois TimeSpan.
 10. Verificar se um TimeSpan é negativo.
 11. Converter TimeSpan para string.
 12. Criar um TimeSpan a partir de horas e minutos.
