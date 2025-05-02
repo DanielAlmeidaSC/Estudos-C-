@@ -114,13 +114,9 @@
 11. Converter TimeSpan para string.
 12. Criar um TimeSpan a partir de horas e minutos.
 13. Criar um TimeSpan a partir de dias.
-14. Verificar se o TimeSpan é zero.
-15. Pegar o valor absoluto de um TimeSpan.
 16. Usar o método `FromMinutes` para criar um TimeSpan.
 17. Usar o método `FromHours` para criar um TimeSpan.
 18. Usar o método `FromDays` para criar um TimeSpan.
-19. Pegar apenas a parte das horas de um TimeSpan.
-20. Pegar apenas a parte dos segundos de um TimeSpan.
 
 ---
 
