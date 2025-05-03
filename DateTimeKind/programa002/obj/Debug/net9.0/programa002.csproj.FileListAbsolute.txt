@@ -1,0 +1,15 @@
+D:\Estudos C#\DateTimeKind\programa002\bin\Debug\net9.0\programa002.exe
+D:\Estudos C#\DateTimeKind\programa002\bin\Debug\net9.0\programa002.deps.json
+D:\Estudos C#\DateTimeKind\programa002\bin\Debug\net9.0\programa002.runtimeconfig.json
+D:\Estudos C#\DateTimeKind\programa002\bin\Debug\net9.0\programa002.dll
+D:\Estudos C#\DateTimeKind\programa002\bin\Debug\net9.0\programa002.pdb
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.AssemblyInfoInputs.cache
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.AssemblyInfo.cs
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.csproj.CoreCompileInputs.cache
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.sourcelink.json
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.dll
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\refint\programa002.dll
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.pdb
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\programa002.genruntimeconfig.cache
+D:\Estudos C#\DateTimeKind\programa002\obj\Debug\net9.0\ref\programa002.dll

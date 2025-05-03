@@ -82,7 +82,7 @@
 
 ---
 
-## ✅ 20 exercícios usando **`DateTime`**
+## ✅ 15 exercícios usando **`DateTime`**
 1. Pegar a data atual.
 2. Pegar o ano atual.
 3. Pegar o mês atual.
@@ -101,7 +101,7 @@
 
 ---
 
-## ✅ 20 exercícios usando **`TimeSpan`**
+## ✅ 18 exercícios usando **`TimeSpan`**
 1. Criar um TimeSpan de 1 hora.
 2. Criar um TimeSpan de 30 minutos.
 3. Somar dois TimeSpan.
@@ -120,7 +120,7 @@
 
 ---
 
-## ✅ 10 exercícios usando **`DateTimeKind`**
+## ✅ 7exercícios usando **`DateTimeKind`**
 1. Criar um DateTime com DateTimeKind.Utc.
 2. Criar um DateTime com DateTimeKind.Local.
 3. Criar um DateTime com DateTimeKind.Unspecified.
@@ -128,6 +128,3 @@
 5. Converter DateTimeKind de Local para Utc.
 6. Converter DateTimeKind de Utc para Local.
 7. Comparar dois DateTimes com Kinds diferentes.
-8. Serializar DateTime como Utc para JSON.
-9. Definir DateTimeKind explicitamente usando `DateTime.SpecifyKind`.
-10. Exibir o Kind de DateTime antes e depois de uma conversão.

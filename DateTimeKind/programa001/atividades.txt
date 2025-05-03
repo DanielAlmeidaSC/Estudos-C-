@@ -1,0 +1,4 @@
+1. Criar um DateTime com DateTimeKind.Utc.
+2. Criar um DateTime com DateTimeKind.Local.
+3. Criar um DateTime com DateTimeKind.Unspecified.
+4. Checar o Kind de um DateTime.
