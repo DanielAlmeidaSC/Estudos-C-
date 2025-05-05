@@ -1,0 +1,5 @@
+Criar um Enum de Cores
+
+Crie um enum chamado Cores que contenha as cores: Vermelho, Verde, Azul, Amarelo e Preto.
+
+Crie um método que receba uma cor como parâmetro e retorne o nome da cor.

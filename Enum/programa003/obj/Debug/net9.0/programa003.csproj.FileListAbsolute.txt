@@ -1,0 +1,15 @@
+D:\Estudos C#\Enum\programa003\bin\Debug\net9.0\programa003.exe
+D:\Estudos C#\Enum\programa003\bin\Debug\net9.0\programa003.deps.json
+D:\Estudos C#\Enum\programa003\bin\Debug\net9.0\programa003.runtimeconfig.json
+D:\Estudos C#\Enum\programa003\bin\Debug\net9.0\programa003.dll
+D:\Estudos C#\Enum\programa003\bin\Debug\net9.0\programa003.pdb
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.AssemblyInfoInputs.cache
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.AssemblyInfo.cs
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.sourcelink.json
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.dll
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\refint\programa003.dll
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.pdb
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\programa003.genruntimeconfig.cache
+D:\Estudos C#\Enum\programa003\obj\Debug\net9.0\ref\programa003.dll

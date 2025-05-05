@@ -1,0 +1,4 @@
+Dias da Semana
+Crie um enum chamado DiaDaSemana com os dias da semana (Segunda, Terça, Quarta, etc.).
+
+Escreva um método que imprima se o dia é útil ou final de semana. O método deve usar um switch case para determinar isso.
