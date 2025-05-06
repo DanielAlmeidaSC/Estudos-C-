@@ -1,0 +1,12 @@
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.sourcelink.json
+D:\Estudos C#\Enum\enums\bin\Debug\net9.0\Enums.deps.json
+D:\Estudos C#\Enum\enums\bin\Debug\net9.0\Enums.dll
+D:\Estudos C#\Enum\enums\bin\Debug\net9.0\Enums.pdb
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.dll
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\refint\Enums.dll
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\Enums.pdb
+D:\Estudos C#\Enum\enums\obj\Debug\net9.0\ref\Enums.dll

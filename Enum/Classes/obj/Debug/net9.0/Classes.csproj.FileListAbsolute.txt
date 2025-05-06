@@ -1,0 +1,16 @@
+D:\Estudos C#\Enum\classes\bin\Debug\net9.0\Classes.deps.json
+D:\Estudos C#\Enum\classes\bin\Debug\net9.0\Classes.dll
+D:\Estudos C#\Enum\classes\bin\Debug\net9.0\Classes.pdb
+D:\Estudos C#\Enum\classes\bin\Debug\net9.0\Enums.dll
+D:\Estudos C#\Enum\classes\bin\Debug\net9.0\Enums.pdb
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.csproj.AssemblyReference.cache
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.AssemblyInfoInputs.cache
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.AssemblyInfo.cs
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.sourcelink.json
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.csproj.Up2Date
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.dll
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\refint\Classes.dll
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\Classes.pdb
+D:\Estudos C#\Enum\classes\obj\Debug\net9.0\ref\Classes.dll
