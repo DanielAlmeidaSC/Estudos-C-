@@ -1,2 +1,0 @@
-5. Converter DateTimeKind de Local para Utc.
-6. Converter DateTimeKind de Utc para Local.
