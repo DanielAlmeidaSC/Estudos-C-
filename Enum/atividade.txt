@@ -35,19 +35,7 @@ Aqui estão 10 exercícios para praticar o uso de `enum` em C#:
 * Crie um enum chamado `PrioridadeTarefa` com os valores: `Baixa`, `Média`, `Alta`.
 * Crie um método que, dado o valor da prioridade, retorne o tempo máximo de conclusão da tarefa (Ex: Alta -> 1 dia).
 
-### 8. **Tamanho de Roupas**
-
-* Crie um enum chamado `TamanhoRoupas` com os valores: `P`, `M`, `G`, `GG`.
-* Crie um método que, dado o tamanho, retorne a descrição do tamanho (Ex: P -> Pequeno, G -> Grande).
-
 ### 9. **Mês do Ano**
 
 * Crie um enum chamado `MesDoAno` com os valores de todos os meses (Janeiro, Fevereiro, etc.).
 * Crie um método que, dado um mês, retorne a estação do ano correspondente.
-
-### 10. **Tipos de Pagamento**
-
-* Crie um enum chamado `TipoDePagamento` com os valores: `CartaoCredito`, `CartaoDebito`, `Pix`, `Boleto`.
-* Crie um método que, dado um tipo de pagamento, calcule o valor de um pagamento com desconto (por exemplo, 5% de desconto para pagamentos via Pix).
-
-Esses exercícios vão te ajudar a explorar os diferentes usos de `enum` em C#. Se precisar de ajuda para resolver algum deles, é só avisar!

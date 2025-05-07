@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TempoMaximoDeEntrega/1.0.0": {
+        "dependencies": {
+          "classes": "1.0.0"
+        },
+        "runtime": {
+          "TempoMaximoDeEntrega.dll": {}
+        }
+      },
+      "classes/1.0.0": {
+        "dependencies": {
+          "Enums": "1.0.0"
+        },
+        "runtime": {
+          "classes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Enums/1.0.0": {
+        "runtime": {
+          "Enums.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TempoMaximoDeEntrega/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

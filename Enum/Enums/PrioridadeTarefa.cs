@@ -2,7 +2,7 @@ namespace Enums
 {
     public enum PrioridadeTarefa
     {
-        Bixa,
+        Baixa = 1,
         Média,
         Alta
     }

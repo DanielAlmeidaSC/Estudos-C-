@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoMaximoDeEntrega", "TempoMaximoDeEntrega.csproj", "{D1E14747-F80D-64D3-C5FB-A1AE7F77EC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E14747-F80D-64D3-C5FB-A1AE7F77EC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E14747-F80D-64D3-C5FB-A1AE7F77EC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E14747-F80D-64D3-C5FB-A1AE7F77EC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E14747-F80D-64D3-C5FB-A1AE7F77EC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB36967-11F6-47B2-B905-D94CC916B5D6}
+	EndGlobalSection
+EndGlobal
