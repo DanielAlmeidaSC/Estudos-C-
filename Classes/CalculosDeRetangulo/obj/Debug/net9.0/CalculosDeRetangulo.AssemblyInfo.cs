@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Programa001")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculosDeRetangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29e20818d249cf50ae8cacd2bed0442597cec16")]
-[assembly: System.Reflection.AssemblyProductAttribute("Programa001")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Programa001")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculosDeRetangulo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculosDeRetangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

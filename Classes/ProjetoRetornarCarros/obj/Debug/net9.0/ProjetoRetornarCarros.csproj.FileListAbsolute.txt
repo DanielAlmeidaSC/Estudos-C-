@@ -1,0 +1,15 @@
+D:\Estudos C#\Classes\ProjetoRetornarCarros\bin\Debug\net9.0\ProjetoRetornarCarros.exe
+D:\Estudos C#\Classes\ProjetoRetornarCarros\bin\Debug\net9.0\ProjetoRetornarCarros.deps.json
+D:\Estudos C#\Classes\ProjetoRetornarCarros\bin\Debug\net9.0\ProjetoRetornarCarros.runtimeconfig.json
+D:\Estudos C#\Classes\ProjetoRetornarCarros\bin\Debug\net9.0\ProjetoRetornarCarros.dll
+D:\Estudos C#\Classes\ProjetoRetornarCarros\bin\Debug\net9.0\ProjetoRetornarCarros.pdb
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.AssemblyInfoInputs.cache
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.AssemblyInfo.cs
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.sourcelink.json
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.dll
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\refint\ProjetoRetornarCarros.dll
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.pdb
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ProjetoRetornarCarros.genruntimeconfig.cache
+D:\Estudos C#\Classes\ProjetoRetornarCarros\obj\Debug\net9.0\ref\ProjetoRetornarCarros.dll

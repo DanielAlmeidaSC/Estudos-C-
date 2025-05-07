@@ -1,0 +1,2 @@
+Crie uma classe Endereco com atributos rua, cidade, estado e cep.
+Crie uma classe Pessoa que tenha um atributo endereco do tipo Endereco.

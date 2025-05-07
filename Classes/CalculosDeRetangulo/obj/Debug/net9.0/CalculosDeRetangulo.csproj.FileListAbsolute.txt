@@ -1,0 +1,15 @@
+D:\Estudos C#\Classes\CalculosDeRetangulo\bin\Debug\net9.0\CalculosDeRetangulo.exe
+D:\Estudos C#\Classes\CalculosDeRetangulo\bin\Debug\net9.0\CalculosDeRetangulo.deps.json
+D:\Estudos C#\Classes\CalculosDeRetangulo\bin\Debug\net9.0\CalculosDeRetangulo.runtimeconfig.json
+D:\Estudos C#\Classes\CalculosDeRetangulo\bin\Debug\net9.0\CalculosDeRetangulo.dll
+D:\Estudos C#\Classes\CalculosDeRetangulo\bin\Debug\net9.0\CalculosDeRetangulo.pdb
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.AssemblyInfoInputs.cache
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.AssemblyInfo.cs
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.sourcelink.json
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.dll
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\refint\CalculosDeRetangulo.dll
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.pdb
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\CalculosDeRetangulo.genruntimeconfig.cache
+D:\Estudos C#\Classes\CalculosDeRetangulo\obj\Debug\net9.0\ref\CalculosDeRetangulo.dll

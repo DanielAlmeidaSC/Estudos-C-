@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\bin\Debug\net9.0\ProjetoPessoaComComposicao.exe
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\bin\Debug\net9.0\ProjetoPessoaComComposicao.deps.json
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\bin\Debug\net9.0\ProjetoPessoaComComposicao.runtimeconfig.json
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\bin\Debug\net9.0\ProjetoPessoaComComposicao.dll
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\bin\Debug\net9.0\ProjetoPessoaComComposicao.pdb
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.AssemblyInfo.cs
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.sourcelink.json
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.dll
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\refint\ProjetoPessoaComComposicao.dll
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.pdb
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ProjetoPessoaComComposicao.genruntimeconfig.cache
+D:\Estudos C#\Composição\ProjetoPessoaComComposicao\obj\Debug\net9.0\ref\ProjetoPessoaComComposicao.dll

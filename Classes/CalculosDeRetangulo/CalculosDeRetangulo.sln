@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculosDeRetangulo", "CalculosDeRetangulo.csproj", "{846DC94F-59F6-7130-B406-9B09D9D97EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846DC94F-59F6-7130-B406-9B09D9D97EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846DC94F-59F6-7130-B406-9B09D9D97EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846DC94F-59F6-7130-B406-9B09D9D97EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846DC94F-59F6-7130-B406-9B09D9D97EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E689EC-26F1-4CF8-872B-B2EB7DA8E753}
+	EndGlobalSection
+EndGlobal
