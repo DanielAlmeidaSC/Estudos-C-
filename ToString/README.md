@@ -27,7 +27,7 @@ Exibir um número como moeda
 Exibir um número em formato hexadecimal.
 
 
--- 
+---
 
 ### Como executar os projetos
 
