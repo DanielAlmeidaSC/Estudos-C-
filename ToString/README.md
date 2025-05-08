@@ -36,7 +36,7 @@ Cada pasta representa um projeto independente. Para executar, siga os passos aba
    cd NomeDaPasta
 
 2. Execute o comando:
-````bash
+    ```bash
     dotnet run
 
 **⚠️Precisa ter o .NET SDK instalado em sua máquina⚠️**
