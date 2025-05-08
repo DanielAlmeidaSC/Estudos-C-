@@ -27,8 +27,9 @@ Exibir um número como moeda
 Exibir um número em formato hexadecimal.
 
 
+-- 
 
-##### Como executar os projetos
+### Como executar os projetos
 
 Cada pasta contém um projeto único e separado. Para executar eles, é necessário entrar em um prompt de comando e digitar **dotnet run** ou executar pelo **VSCODE** no CTRL+F5. 
 
