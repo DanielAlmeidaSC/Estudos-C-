@@ -33,7 +33,7 @@ Exibir um número em formato hexadecimal.
 
 Cada pasta contém um projeto único e separado. Para executar eles, é necessário entrar em um prompt de comando e digitar **dotnet run** ou executar pelo **VSCODE** no CTRL+F5. 
 
-**⚠️Precisa ter o .NET instalado em sua máquina**
+**⚠️Precisa ter o .NET instalado em sua máquina⚠️**
 
 
 #🛠 Tecnologias Usadas
