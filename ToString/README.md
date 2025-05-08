@@ -35,8 +35,8 @@ Cada pasta contém um projeto único e separado. Para executar eles, é necessá
 
 **⚠️Precisa ter o .NET instalado em sua máquina⚠️**
 
-
-#🛠 Tecnologias Usadas
+---
+### 🛠 Tecnologias Usadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
