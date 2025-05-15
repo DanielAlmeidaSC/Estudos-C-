@@ -16,6 +16,20 @@ namespace FuncionariosDaEmpresa
             {
                 funcionario.Trabalhar();
             }
+
+            //EXEMPLO QUE DEVE DAR ERRO
+            Funcionario funcionario1 = new Gerente(); //Upcassting. Cria um gerente do tipo funcionario
+
+            try
+            {
+                Programador programador = (Programador)funcionario1; //NAO VAI FUNCIONAR, PQ FUNCIONARIO1 É DO TIPO GERENTE
+                programador.Programar();
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("Erro: não é possível converter gerente para programador");
+                throw;
+            }
         }
     }
 }

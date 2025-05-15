@@ -1,0 +1,15 @@
+D:\Estudos C#\DownCasting\contaepoupanca\bin\Debug\net9.0\contaepoupanca.exe
+D:\Estudos C#\DownCasting\contaepoupanca\bin\Debug\net9.0\contaepoupanca.deps.json
+D:\Estudos C#\DownCasting\contaepoupanca\bin\Debug\net9.0\contaepoupanca.runtimeconfig.json
+D:\Estudos C#\DownCasting\contaepoupanca\bin\Debug\net9.0\contaepoupanca.dll
+D:\Estudos C#\DownCasting\contaepoupanca\bin\Debug\net9.0\contaepoupanca.pdb
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.AssemblyInfoInputs.cache
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.AssemblyInfo.cs
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.csproj.CoreCompileInputs.cache
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.sourcelink.json
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.dll
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\refint\contaepoupanca.dll
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.pdb
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\contaepoupanca.genruntimeconfig.cache
+D:\Estudos C#\DownCasting\contaepoupanca\obj\Debug\net9.0\ref\contaepoupanca.dll

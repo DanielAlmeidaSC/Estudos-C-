@@ -1,0 +1,15 @@
+D:\Estudos C#\DownCasting\AnimalEmCachorro\bin\Debug\net9.0\AnimalEmCachorro.exe
+D:\Estudos C#\DownCasting\AnimalEmCachorro\bin\Debug\net9.0\AnimalEmCachorro.deps.json
+D:\Estudos C#\DownCasting\AnimalEmCachorro\bin\Debug\net9.0\AnimalEmCachorro.runtimeconfig.json
+D:\Estudos C#\DownCasting\AnimalEmCachorro\bin\Debug\net9.0\AnimalEmCachorro.dll
+D:\Estudos C#\DownCasting\AnimalEmCachorro\bin\Debug\net9.0\AnimalEmCachorro.pdb
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.AssemblyInfoInputs.cache
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.AssemblyInfo.cs
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.csproj.CoreCompileInputs.cache
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.sourcelink.json
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.dll
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\refint\AnimalEmCachorro.dll
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.pdb
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\AnimalEmCachorro.genruntimeconfig.cache
+D:\Estudos C#\DownCasting\AnimalEmCachorro\obj\Debug\net9.0\ref\AnimalEmCachorro.dll

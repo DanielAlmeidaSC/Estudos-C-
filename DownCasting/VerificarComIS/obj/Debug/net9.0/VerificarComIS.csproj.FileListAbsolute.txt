@@ -1,0 +1,15 @@
+D:\Estudos C#\DownCasting\VerificarComIS\bin\Debug\net9.0\VerificarComIS.exe
+D:\Estudos C#\DownCasting\VerificarComIS\bin\Debug\net9.0\VerificarComIS.deps.json
+D:\Estudos C#\DownCasting\VerificarComIS\bin\Debug\net9.0\VerificarComIS.runtimeconfig.json
+D:\Estudos C#\DownCasting\VerificarComIS\bin\Debug\net9.0\VerificarComIS.dll
+D:\Estudos C#\DownCasting\VerificarComIS\bin\Debug\net9.0\VerificarComIS.pdb
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.AssemblyInfoInputs.cache
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.AssemblyInfo.cs
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.csproj.CoreCompileInputs.cache
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.sourcelink.json
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.dll
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\refint\VerificarComIS.dll
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.pdb
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\VerificarComIS.genruntimeconfig.cache
+D:\Estudos C#\DownCasting\VerificarComIS\obj\Debug\net9.0\ref\VerificarComIS.dll
