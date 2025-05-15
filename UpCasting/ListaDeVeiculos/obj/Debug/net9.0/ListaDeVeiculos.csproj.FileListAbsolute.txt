@@ -1,0 +1,15 @@
+D:\Estudos C#\UpCasting\ListaDeVeiculos\bin\Debug\net9.0\ListaDeVeiculos.exe
+D:\Estudos C#\UpCasting\ListaDeVeiculos\bin\Debug\net9.0\ListaDeVeiculos.deps.json
+D:\Estudos C#\UpCasting\ListaDeVeiculos\bin\Debug\net9.0\ListaDeVeiculos.runtimeconfig.json
+D:\Estudos C#\UpCasting\ListaDeVeiculos\bin\Debug\net9.0\ListaDeVeiculos.dll
+D:\Estudos C#\UpCasting\ListaDeVeiculos\bin\Debug\net9.0\ListaDeVeiculos.pdb
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.AssemblyInfoInputs.cache
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.AssemblyInfo.cs
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.csproj.CoreCompileInputs.cache
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.sourcelink.json
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.dll
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\refint\ListaDeVeiculos.dll
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.pdb
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ListaDeVeiculos.genruntimeconfig.cache
+D:\Estudos C#\UpCasting\ListaDeVeiculos\obj\Debug\net9.0\ref\ListaDeVeiculos.dll

@@ -1,0 +1,15 @@
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\bin\Debug\net9.0\ProdutoEProdutoImportado.exe
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\bin\Debug\net9.0\ProdutoEProdutoImportado.deps.json
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\bin\Debug\net9.0\ProdutoEProdutoImportado.runtimeconfig.json
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\bin\Debug\net9.0\ProdutoEProdutoImportado.dll
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\bin\Debug\net9.0\ProdutoEProdutoImportado.pdb
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.AssemblyInfoInputs.cache
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.AssemblyInfo.cs
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.sourcelink.json
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.dll
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\refint\ProdutoEProdutoImportado.dll
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.pdb
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ProdutoEProdutoImportado.genruntimeconfig.cache
+D:\Estudos C#\Herança\ProdutoEProdutoImportado\obj\Debug\net9.0\ref\ProdutoEProdutoImportado.dll

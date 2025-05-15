@@ -1,0 +1,15 @@
+D:\Estudos C#\UpCasting\AnimalESom\bin\Debug\net9.0\AnimalESom.exe
+D:\Estudos C#\UpCasting\AnimalESom\bin\Debug\net9.0\AnimalESom.deps.json
+D:\Estudos C#\UpCasting\AnimalESom\bin\Debug\net9.0\AnimalESom.runtimeconfig.json
+D:\Estudos C#\UpCasting\AnimalESom\bin\Debug\net9.0\AnimalESom.dll
+D:\Estudos C#\UpCasting\AnimalESom\bin\Debug\net9.0\AnimalESom.pdb
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.AssemblyInfoInputs.cache
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.AssemblyInfo.cs
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.csproj.CoreCompileInputs.cache
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.sourcelink.json
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.dll
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\refint\AnimalESom.dll
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.pdb
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\AnimalESom.genruntimeconfig.cache
+D:\Estudos C#\UpCasting\AnimalESom\obj\Debug\net9.0\ref\AnimalESom.dll

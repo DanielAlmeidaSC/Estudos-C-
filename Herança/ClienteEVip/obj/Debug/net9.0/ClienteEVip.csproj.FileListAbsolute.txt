@@ -1,0 +1,15 @@
+D:\Estudos C#\Herança\ClienteEVip\bin\Debug\net9.0\ClienteEVip.exe
+D:\Estudos C#\Herança\ClienteEVip\bin\Debug\net9.0\ClienteEVip.deps.json
+D:\Estudos C#\Herança\ClienteEVip\bin\Debug\net9.0\ClienteEVip.runtimeconfig.json
+D:\Estudos C#\Herança\ClienteEVip\bin\Debug\net9.0\ClienteEVip.dll
+D:\Estudos C#\Herança\ClienteEVip\bin\Debug\net9.0\ClienteEVip.pdb
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.AssemblyInfoInputs.cache
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.AssemblyInfo.cs
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.sourcelink.json
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.dll
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\refint\ClienteEVip.dll
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.pdb
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ClienteEVip.genruntimeconfig.cache
+D:\Estudos C#\Herança\ClienteEVip\obj\Debug\net9.0\ref\ClienteEVip.dll

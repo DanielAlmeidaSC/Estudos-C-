@@ -1,0 +1,15 @@
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\bin\Debug\net9.0\FuncionariosDaEmpresa.exe
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\bin\Debug\net9.0\FuncionariosDaEmpresa.deps.json
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\bin\Debug\net9.0\FuncionariosDaEmpresa.runtimeconfig.json
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\bin\Debug\net9.0\FuncionariosDaEmpresa.dll
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\bin\Debug\net9.0\FuncionariosDaEmpresa.pdb
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.AssemblyInfoInputs.cache
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.AssemblyInfo.cs
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.csproj.CoreCompileInputs.cache
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.sourcelink.json
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.dll
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\refint\FuncionariosDaEmpresa.dll
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.pdb
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\FuncionariosDaEmpresa.genruntimeconfig.cache
+D:\Estudos C#\UpCasting\FuncionariosDaEmpresa\obj\Debug\net9.0\ref\FuncionariosDaEmpresa.dll

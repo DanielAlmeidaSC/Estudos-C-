@@ -1,0 +1,15 @@
+D:\Estudos C#\Herança\FuncionarioEGerente\bin\Debug\net9.0\FuncionarioEGerente.exe
+D:\Estudos C#\Herança\FuncionarioEGerente\bin\Debug\net9.0\FuncionarioEGerente.deps.json
+D:\Estudos C#\Herança\FuncionarioEGerente\bin\Debug\net9.0\FuncionarioEGerente.runtimeconfig.json
+D:\Estudos C#\Herança\FuncionarioEGerente\bin\Debug\net9.0\FuncionarioEGerente.dll
+D:\Estudos C#\Herança\FuncionarioEGerente\bin\Debug\net9.0\FuncionarioEGerente.pdb
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.AssemblyInfoInputs.cache
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.AssemblyInfo.cs
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.sourcelink.json
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.dll
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\refint\FuncionarioEGerente.dll
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.pdb
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\FuncionarioEGerente.genruntimeconfig.cache
+D:\Estudos C#\Herança\FuncionarioEGerente\obj\Debug\net9.0\ref\FuncionarioEGerente.dll
