@@ -1,0 +1,4 @@
+Enunciado:
+Crie a classe Funcionario com Nome e Cargo. Haverá um Enum com cargos. A classe Empresa deve conter uma lista de funcionários.
+Resultado esperado:
+Imprimir todos os funcionários da empresa com seus cargos.

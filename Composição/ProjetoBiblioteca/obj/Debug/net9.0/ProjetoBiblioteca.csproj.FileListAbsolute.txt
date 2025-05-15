@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\ProjetoBiblioteca\bin\Debug\net9.0\ProjetoBiblioteca.exe
+D:\Estudos C#\Composição\ProjetoBiblioteca\bin\Debug\net9.0\ProjetoBiblioteca.deps.json
+D:\Estudos C#\Composição\ProjetoBiblioteca\bin\Debug\net9.0\ProjetoBiblioteca.runtimeconfig.json
+D:\Estudos C#\Composição\ProjetoBiblioteca\bin\Debug\net9.0\ProjetoBiblioteca.dll
+D:\Estudos C#\Composição\ProjetoBiblioteca\bin\Debug\net9.0\ProjetoBiblioteca.pdb
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.AssemblyInfo.cs
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.sourcelink.json
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.dll
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\refint\ProjetoBiblioteca.dll
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.pdb
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ProjetoBiblioteca.genruntimeconfig.cache
+D:\Estudos C#\Composição\ProjetoBiblioteca\obj\Debug\net9.0\ref\ProjetoBiblioteca.dll

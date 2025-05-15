@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\bin\Debug\net9.0\ProjetoRelatorioPedido.exe
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\bin\Debug\net9.0\ProjetoRelatorioPedido.deps.json
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\bin\Debug\net9.0\ProjetoRelatorioPedido.runtimeconfig.json
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\bin\Debug\net9.0\ProjetoRelatorioPedido.dll
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\bin\Debug\net9.0\ProjetoRelatorioPedido.pdb
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.AssemblyInfo.cs
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.sourcelink.json
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.dll
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\refint\ProjetoRelatorioPedido.dll
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.pdb
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ProjetoRelatorioPedido.genruntimeconfig.cache
+D:\Estudos C#\Composição\ProjetoRelatorioPedido\obj\Debug\net9.0\ref\ProjetoRelatorioPedido.dll

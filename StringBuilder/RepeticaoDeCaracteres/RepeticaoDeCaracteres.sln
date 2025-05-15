@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeticaoDeCaracteres", "RepeticaoDeCaracteres.csproj", "{22124048-787E-83B0-1AFC-4DA1293018ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22124048-787E-83B0-1AFC-4DA1293018ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22124048-787E-83B0-1AFC-4DA1293018ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22124048-787E-83B0-1AFC-4DA1293018ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22124048-787E-83B0-1AFC-4DA1293018ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C80F20-C2D2-4A44-B237-1642B11DD7DB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+
+Crie uma classe Motor com atributos como potencia e tipoCombustivel. (o tipo de combustivel será um enum)
+Crie uma classe Carro que contenha um Motor.

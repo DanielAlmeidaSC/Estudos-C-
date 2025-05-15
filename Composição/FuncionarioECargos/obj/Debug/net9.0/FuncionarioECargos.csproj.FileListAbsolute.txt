@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\FuncionarioECargos\bin\Debug\net9.0\FuncionarioECargos.exe
+D:\Estudos C#\Composição\FuncionarioECargos\bin\Debug\net9.0\FuncionarioECargos.deps.json
+D:\Estudos C#\Composição\FuncionarioECargos\bin\Debug\net9.0\FuncionarioECargos.runtimeconfig.json
+D:\Estudos C#\Composição\FuncionarioECargos\bin\Debug\net9.0\FuncionarioECargos.dll
+D:\Estudos C#\Composição\FuncionarioECargos\bin\Debug\net9.0\FuncionarioECargos.pdb
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.AssemblyInfo.cs
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.sourcelink.json
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.dll
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\refint\FuncionarioECargos.dll
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.pdb
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\FuncionarioECargos.genruntimeconfig.cache
+D:\Estudos C#\Composição\FuncionarioECargos\obj\Debug\net9.0\ref\FuncionarioECargos.dll

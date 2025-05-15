@@ -1,0 +1,15 @@
+D:\Estudos C#\StringBuilder\InversorDePalavras\bin\Debug\net9.0\InversorDePalavras.exe
+D:\Estudos C#\StringBuilder\InversorDePalavras\bin\Debug\net9.0\InversorDePalavras.deps.json
+D:\Estudos C#\StringBuilder\InversorDePalavras\bin\Debug\net9.0\InversorDePalavras.runtimeconfig.json
+D:\Estudos C#\StringBuilder\InversorDePalavras\bin\Debug\net9.0\InversorDePalavras.dll
+D:\Estudos C#\StringBuilder\InversorDePalavras\bin\Debug\net9.0\InversorDePalavras.pdb
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.AssemblyInfoInputs.cache
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.AssemblyInfo.cs
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.csproj.CoreCompileInputs.cache
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.sourcelink.json
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.dll
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\refint\InversorDePalavras.dll
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.pdb
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\InversorDePalavras.genruntimeconfig.cache
+D:\Estudos C#\StringBuilder\InversorDePalavras\obj\Debug\net9.0\ref\InversorDePalavras.dll

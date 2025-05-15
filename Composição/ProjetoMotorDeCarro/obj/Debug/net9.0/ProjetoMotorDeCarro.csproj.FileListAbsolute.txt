@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\bin\Debug\net9.0\ProjetoMotorDeCarro.exe
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\bin\Debug\net9.0\ProjetoMotorDeCarro.deps.json
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\bin\Debug\net9.0\ProjetoMotorDeCarro.runtimeconfig.json
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\bin\Debug\net9.0\ProjetoMotorDeCarro.dll
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\bin\Debug\net9.0\ProjetoMotorDeCarro.pdb
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.AssemblyInfo.cs
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.sourcelink.json
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.dll
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\refint\ProjetoMotorDeCarro.dll
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.pdb
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ProjetoMotorDeCarro.genruntimeconfig.cache
+D:\Estudos C#\Composição\ProjetoMotorDeCarro\obj\Debug\net9.0\ref\ProjetoMotorDeCarro.dll

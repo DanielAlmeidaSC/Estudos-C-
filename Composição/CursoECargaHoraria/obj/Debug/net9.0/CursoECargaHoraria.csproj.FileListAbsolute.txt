@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\CursoECargaHoraria\bin\Debug\net9.0\CursoECargaHoraria.exe
+D:\Estudos C#\Composição\CursoECargaHoraria\bin\Debug\net9.0\CursoECargaHoraria.deps.json
+D:\Estudos C#\Composição\CursoECargaHoraria\bin\Debug\net9.0\CursoECargaHoraria.runtimeconfig.json
+D:\Estudos C#\Composição\CursoECargaHoraria\bin\Debug\net9.0\CursoECargaHoraria.dll
+D:\Estudos C#\Composição\CursoECargaHoraria\bin\Debug\net9.0\CursoECargaHoraria.pdb
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.AssemblyInfo.cs
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.sourcelink.json
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.dll
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\refint\CursoECargaHoraria.dll
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.pdb
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\CursoECargaHoraria.genruntimeconfig.cache
+D:\Estudos C#\Composição\CursoECargaHoraria\obj\Debug\net9.0\ref\CursoECargaHoraria.dll

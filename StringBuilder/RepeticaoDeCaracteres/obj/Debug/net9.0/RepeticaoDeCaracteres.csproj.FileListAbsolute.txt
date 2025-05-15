@@ -1,0 +1,15 @@
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\bin\Debug\net9.0\RepeticaoDeCaracteres.exe
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\bin\Debug\net9.0\RepeticaoDeCaracteres.deps.json
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\bin\Debug\net9.0\RepeticaoDeCaracteres.runtimeconfig.json
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\bin\Debug\net9.0\RepeticaoDeCaracteres.dll
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\bin\Debug\net9.0\RepeticaoDeCaracteres.pdb
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.AssemblyInfoInputs.cache
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.AssemblyInfo.cs
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.csproj.CoreCompileInputs.cache
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.sourcelink.json
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.dll
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\refint\RepeticaoDeCaracteres.dll
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.pdb
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\RepeticaoDeCaracteres.genruntimeconfig.cache
+D:\Estudos C#\StringBuilder\RepeticaoDeCaracteres\obj\Debug\net9.0\ref\RepeticaoDeCaracteres.dll

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionarioECargos", "FuncionarioECargos.csproj", "{7EBCD7F7-77F7-7A92-AD3C-29904DCDAAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBCD7F7-77F7-7A92-AD3C-29904DCDAAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBCD7F7-77F7-7A92-AD3C-29904DCDAAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBCD7F7-77F7-7A92-AD3C-29904DCDAAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBCD7F7-77F7-7A92-AD3C-29904DCDAAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57E2970-31FA-4A79-8C58-0AD7A4E9AB3E}
+	EndGlobalSection
+EndGlobal

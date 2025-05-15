@@ -1,0 +1,15 @@
+D:\Estudos C#\Composição\CriacaoPedido\bin\Debug\net9.0\CriacaoPedido.exe
+D:\Estudos C#\Composição\CriacaoPedido\bin\Debug\net9.0\CriacaoPedido.deps.json
+D:\Estudos C#\Composição\CriacaoPedido\bin\Debug\net9.0\CriacaoPedido.runtimeconfig.json
+D:\Estudos C#\Composição\CriacaoPedido\bin\Debug\net9.0\CriacaoPedido.dll
+D:\Estudos C#\Composição\CriacaoPedido\bin\Debug\net9.0\CriacaoPedido.pdb
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.AssemblyInfoInputs.cache
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.AssemblyInfo.cs
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.sourcelink.json
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.dll
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\refint\CriacaoPedido.dll
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.pdb
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\CriacaoPedido.genruntimeconfig.cache
+D:\Estudos C#\Composição\CriacaoPedido\obj\Debug\net9.0\ref\CriacaoPedido.dll

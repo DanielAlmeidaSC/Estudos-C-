@@ -1,0 +1,5 @@
+Enunciado:
+Crie a classe Curso com Nome e CargaHoraria. Crie a classe Aluno com nome e um Curso.
+Resultado esperado:
+Criar um aluno matriculado em um curso e imprimir:
+"João está matriculado no curso de C# com 40h."

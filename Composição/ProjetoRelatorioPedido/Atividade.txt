@@ -1,0 +1,4 @@
+Enunciado:
+Crie a classe Produto com nome e preço. A classe Pedido deve conter uma lista de produtos.
+Resultado esperado:
+Adicionar 3 produtos a um pedido e imprimir o total da compra.

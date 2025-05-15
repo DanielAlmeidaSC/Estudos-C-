@@ -1,0 +1,15 @@
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\bin\Debug\net9.0\SubstituicaoDePalavra.exe
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\bin\Debug\net9.0\SubstituicaoDePalavra.deps.json
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\bin\Debug\net9.0\SubstituicaoDePalavra.runtimeconfig.json
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\bin\Debug\net9.0\SubstituicaoDePalavra.dll
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\bin\Debug\net9.0\SubstituicaoDePalavra.pdb
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.AssemblyInfoInputs.cache
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.AssemblyInfo.cs
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.csproj.CoreCompileInputs.cache
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.sourcelink.json
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.dll
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\refint\SubstituicaoDePalavra.dll
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.pdb
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\SubstituicaoDePalavra.genruntimeconfig.cache
+D:\Estudos C#\StringBuilder\SubstituicaoDePalavra\obj\Debug\net9.0\ref\SubstituicaoDePalavra.dll
