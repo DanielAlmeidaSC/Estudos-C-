@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\CopiarArquivo\bin\Debug\net9.0\CopiarArquivo.exe
+D:\Estudos C#\Arquivos\CopiarArquivo\bin\Debug\net9.0\CopiarArquivo.deps.json
+D:\Estudos C#\Arquivos\CopiarArquivo\bin\Debug\net9.0\CopiarArquivo.runtimeconfig.json
+D:\Estudos C#\Arquivos\CopiarArquivo\bin\Debug\net9.0\CopiarArquivo.dll
+D:\Estudos C#\Arquivos\CopiarArquivo\bin\Debug\net9.0\CopiarArquivo.pdb
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.sourcelink.json
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.dll
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\refint\CopiarArquivo.dll
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.pdb
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\CopiarArquivo.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\CopiarArquivo\obj\Debug\net9.0\ref\CopiarArquivo.dll

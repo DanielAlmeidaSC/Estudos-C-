@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\ContarPalavras\bin\Debug\net9.0\ContarPalavras.exe
+D:\Estudos C#\Arquivos\ContarPalavras\bin\Debug\net9.0\ContarPalavras.deps.json
+D:\Estudos C#\Arquivos\ContarPalavras\bin\Debug\net9.0\ContarPalavras.runtimeconfig.json
+D:\Estudos C#\Arquivos\ContarPalavras\bin\Debug\net9.0\ContarPalavras.dll
+D:\Estudos C#\Arquivos\ContarPalavras\bin\Debug\net9.0\ContarPalavras.pdb
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.sourcelink.json
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.dll
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\refint\ContarPalavras.dll
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.pdb
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ContarPalavras.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\ContarPalavras\obj\Debug\net9.0\ref\ContarPalavras.dll

@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\ExcluirArquivo\bin\Debug\net9.0\ExcluirArquivo.exe
+D:\Estudos C#\Arquivos\ExcluirArquivo\bin\Debug\net9.0\ExcluirArquivo.deps.json
+D:\Estudos C#\Arquivos\ExcluirArquivo\bin\Debug\net9.0\ExcluirArquivo.runtimeconfig.json
+D:\Estudos C#\Arquivos\ExcluirArquivo\bin\Debug\net9.0\ExcluirArquivo.dll
+D:\Estudos C#\Arquivos\ExcluirArquivo\bin\Debug\net9.0\ExcluirArquivo.pdb
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.sourcelink.json
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.dll
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\refint\ExcluirArquivo.dll
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.pdb
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ExcluirArquivo.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\ExcluirArquivo\obj\Debug\net9.0\ref\ExcluirArquivo.dll

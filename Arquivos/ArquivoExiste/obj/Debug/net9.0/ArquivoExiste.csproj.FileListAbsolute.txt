@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\ArquivoExiste\bin\Debug\net9.0\ArquivoExiste.exe
+D:\Estudos C#\Arquivos\ArquivoExiste\bin\Debug\net9.0\ArquivoExiste.deps.json
+D:\Estudos C#\Arquivos\ArquivoExiste\bin\Debug\net9.0\ArquivoExiste.runtimeconfig.json
+D:\Estudos C#\Arquivos\ArquivoExiste\bin\Debug\net9.0\ArquivoExiste.dll
+D:\Estudos C#\Arquivos\ArquivoExiste\bin\Debug\net9.0\ArquivoExiste.pdb
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.sourcelink.json
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.dll
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\refint\ArquivoExiste.dll
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.pdb
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ArquivoExiste.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\ArquivoExiste\obj\Debug\net9.0\ref\ArquivoExiste.dll

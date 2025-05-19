@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\bin\Debug\net9.0\EscreverVariasLinhas.exe
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\bin\Debug\net9.0\EscreverVariasLinhas.deps.json
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\bin\Debug\net9.0\EscreverVariasLinhas.runtimeconfig.json
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\bin\Debug\net9.0\EscreverVariasLinhas.dll
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\bin\Debug\net9.0\EscreverVariasLinhas.pdb
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.sourcelink.json
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.dll
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\refint\EscreverVariasLinhas.dll
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.pdb
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\EscreverVariasLinhas.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\EscreverVariasLinhas\obj\Debug\net9.0\ref\EscreverVariasLinhas.dll

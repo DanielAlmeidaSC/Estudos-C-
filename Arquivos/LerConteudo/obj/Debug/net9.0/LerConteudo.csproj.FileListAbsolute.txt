@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\LerConteudo\bin\Debug\net9.0\LerConteudo.exe
+D:\Estudos C#\Arquivos\LerConteudo\bin\Debug\net9.0\LerConteudo.deps.json
+D:\Estudos C#\Arquivos\LerConteudo\bin\Debug\net9.0\LerConteudo.runtimeconfig.json
+D:\Estudos C#\Arquivos\LerConteudo\bin\Debug\net9.0\LerConteudo.dll
+D:\Estudos C#\Arquivos\LerConteudo\bin\Debug\net9.0\LerConteudo.pdb
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.sourcelink.json
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.dll
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\refint\LerConteudo.dll
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.pdb
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\LerConteudo.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\LerConteudo\obj\Debug\net9.0\ref\LerConteudo.dll

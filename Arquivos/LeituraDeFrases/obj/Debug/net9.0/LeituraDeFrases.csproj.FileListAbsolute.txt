@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\LeituraDeFrases\bin\Debug\net9.0\LeituraDeFrases.exe
+D:\Estudos C#\Arquivos\LeituraDeFrases\bin\Debug\net9.0\LeituraDeFrases.deps.json
+D:\Estudos C#\Arquivos\LeituraDeFrases\bin\Debug\net9.0\LeituraDeFrases.runtimeconfig.json
+D:\Estudos C#\Arquivos\LeituraDeFrases\bin\Debug\net9.0\LeituraDeFrases.dll
+D:\Estudos C#\Arquivos\LeituraDeFrases\bin\Debug\net9.0\LeituraDeFrases.pdb
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.sourcelink.json
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.dll
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\refint\LeituraDeFrases.dll
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.pdb
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\LeituraDeFrases.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\LeituraDeFrases\obj\Debug\net9.0\ref\LeituraDeFrases.dll
