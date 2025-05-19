@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\bin\Debug\net9.0\RelatorioComBase.exe
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\bin\Debug\net9.0\RelatorioComBase.deps.json
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\bin\Debug\net9.0\RelatorioComBase.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\bin\Debug\net9.0\RelatorioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\bin\Debug\net9.0\RelatorioComBase.pdb
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\refint\RelatorioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.pdb
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\RelatorioComBase.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\RelatorioComBase\obj\Debug\net9.0\ref\RelatorioComBase.dll

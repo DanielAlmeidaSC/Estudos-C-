@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\bin\Debug\net9.0\FuncionarioComBase.exe
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\bin\Debug\net9.0\FuncionarioComBase.deps.json
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\bin\Debug\net9.0\FuncionarioComBase.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\bin\Debug\net9.0\FuncionarioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\bin\Debug\net9.0\FuncionarioComBase.pdb
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\refint\FuncionarioComBase.dll
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.pdb
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\FuncionarioComBase.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\FuncionarioComBase\obj\Debug\net9.0\ref\FuncionarioComBase.dll

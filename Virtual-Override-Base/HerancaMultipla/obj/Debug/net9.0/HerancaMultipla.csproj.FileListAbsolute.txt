@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\bin\Debug\net9.0\HerancaMultipla.exe
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\bin\Debug\net9.0\HerancaMultipla.deps.json
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\bin\Debug\net9.0\HerancaMultipla.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\bin\Debug\net9.0\HerancaMultipla.dll
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\bin\Debug\net9.0\HerancaMultipla.pdb
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.dll
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\refint\HerancaMultipla.dll
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.pdb
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\HerancaMultipla.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\HerancaMultipla\obj\Debug\net9.0\ref\HerancaMultipla.dll

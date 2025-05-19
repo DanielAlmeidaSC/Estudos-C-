@@ -1,0 +1,3 @@
+1. Classe Animal
+Crie uma classe Animal com um método virtual chamado FazerSom(). 
+Crie uma classe Cachorro que herda de Animal e sobrescreve esse método com um som diferente.

@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\Animal\bin\Debug\net9.0\Animal.exe
+D:\Estudos C#\Virtual-Override-Base\Animal\bin\Debug\net9.0\Animal.deps.json
+D:\Estudos C#\Virtual-Override-Base\Animal\bin\Debug\net9.0\Animal.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\Animal\bin\Debug\net9.0\Animal.dll
+D:\Estudos C#\Virtual-Override-Base\Animal\bin\Debug\net9.0\Animal.pdb
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.dll
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\refint\Animal.dll
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.pdb
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\Animal.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\Animal\obj\Debug\net9.0\ref\Animal.dll

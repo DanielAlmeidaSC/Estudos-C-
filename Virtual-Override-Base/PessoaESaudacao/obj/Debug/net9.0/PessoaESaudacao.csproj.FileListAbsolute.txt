@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\bin\Debug\net9.0\PessoaESaudacao.exe
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\bin\Debug\net9.0\PessoaESaudacao.deps.json
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\bin\Debug\net9.0\PessoaESaudacao.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\bin\Debug\net9.0\PessoaESaudacao.dll
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\bin\Debug\net9.0\PessoaESaudacao.pdb
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.dll
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\refint\PessoaESaudacao.dll
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.pdb
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\PessoaESaudacao.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\PessoaESaudacao\obj\Debug\net9.0\ref\PessoaESaudacao.dll

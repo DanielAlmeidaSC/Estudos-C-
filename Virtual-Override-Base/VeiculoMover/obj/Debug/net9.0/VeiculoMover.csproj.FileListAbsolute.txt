@@ -1,0 +1,15 @@
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\bin\Debug\net9.0\VeiculoMover.exe
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\bin\Debug\net9.0\VeiculoMover.deps.json
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\bin\Debug\net9.0\VeiculoMover.runtimeconfig.json
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\bin\Debug\net9.0\VeiculoMover.dll
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\bin\Debug\net9.0\VeiculoMover.pdb
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.AssemblyInfoInputs.cache
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.AssemblyInfo.cs
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.sourcelink.json
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.dll
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\refint\VeiculoMover.dll
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.pdb
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\VeiculoMover.genruntimeconfig.cache
+D:\Estudos C#\Virtual-Override-Base\VeiculoMover\obj\Debug\net9.0\ref\VeiculoMover.dll
