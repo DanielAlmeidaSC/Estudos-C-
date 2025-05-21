@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\JuntarArquivos\bin\Debug\net9.0\JuntarArquivos.exe
+D:\Estudos C#\Arquivos\JuntarArquivos\bin\Debug\net9.0\JuntarArquivos.deps.json
+D:\Estudos C#\Arquivos\JuntarArquivos\bin\Debug\net9.0\JuntarArquivos.runtimeconfig.json
+D:\Estudos C#\Arquivos\JuntarArquivos\bin\Debug\net9.0\JuntarArquivos.dll
+D:\Estudos C#\Arquivos\JuntarArquivos\bin\Debug\net9.0\JuntarArquivos.pdb
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.sourcelink.json
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.dll
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\refint\JuntarArquivos.dll
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.pdb
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\JuntarArquivos.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\JuntarArquivos\obj\Debug\net9.0\ref\JuntarArquivos.dll

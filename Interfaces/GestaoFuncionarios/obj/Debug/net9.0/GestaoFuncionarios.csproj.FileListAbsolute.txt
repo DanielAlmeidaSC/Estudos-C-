@@ -1,0 +1,15 @@
+D:\Estudos C#\Interfaces\GestaoFuncionarios\bin\Debug\net9.0\GestaoFuncionarios.exe
+D:\Estudos C#\Interfaces\GestaoFuncionarios\bin\Debug\net9.0\GestaoFuncionarios.deps.json
+D:\Estudos C#\Interfaces\GestaoFuncionarios\bin\Debug\net9.0\GestaoFuncionarios.runtimeconfig.json
+D:\Estudos C#\Interfaces\GestaoFuncionarios\bin\Debug\net9.0\GestaoFuncionarios.dll
+D:\Estudos C#\Interfaces\GestaoFuncionarios\bin\Debug\net9.0\GestaoFuncionarios.pdb
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.AssemblyInfoInputs.cache
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.AssemblyInfo.cs
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.sourcelink.json
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.dll
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\refint\GestaoFuncionarios.dll
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.pdb
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\GestaoFuncionarios.genruntimeconfig.cache
+D:\Estudos C#\Interfaces\GestaoFuncionarios\obj\Debug\net9.0\ref\GestaoFuncionarios.dll

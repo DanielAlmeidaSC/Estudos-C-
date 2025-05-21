@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\bin\Debug\net9.0\LerEContar.exe
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\bin\Debug\net9.0\LerEContar.deps.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\bin\Debug\net9.0\LerEContar.runtimeconfig.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\bin\Debug\net9.0\LerEContar.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\bin\Debug\net9.0\LerEContar.pdb
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.sourcelink.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\refint\LerEContar.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.pdb
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\LerEContar.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerEContar\obj\Debug\net9.0\ref\LerEContar.dll

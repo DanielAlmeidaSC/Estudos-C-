@@ -1,0 +1,15 @@
+D:\Estudos C#\Interfaces\SistemaDeNotificações\bin\Debug\net9.0\SistemaDeNotificações.exe
+D:\Estudos C#\Interfaces\SistemaDeNotificações\bin\Debug\net9.0\SistemaDeNotificações.deps.json
+D:\Estudos C#\Interfaces\SistemaDeNotificações\bin\Debug\net9.0\SistemaDeNotificações.runtimeconfig.json
+D:\Estudos C#\Interfaces\SistemaDeNotificações\bin\Debug\net9.0\SistemaDeNotificações.dll
+D:\Estudos C#\Interfaces\SistemaDeNotificações\bin\Debug\net9.0\SistemaDeNotificações.pdb
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.AssemblyInfoInputs.cache
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.AssemblyInfo.cs
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.sourcelink.json
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.dll
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\refint\SistemaDeNotificações.dll
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.pdb
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\SistemaDeNotificações.genruntimeconfig.cache
+D:\Estudos C#\Interfaces\SistemaDeNotificações\obj\Debug\net9.0\ref\SistemaDeNotificações.dll

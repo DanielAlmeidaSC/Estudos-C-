@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\ContadorDeLinhas\bin\Debug\net9.0\ContadorDeLinhas.exe
+D:\Estudos C#\Arquivos\ContadorDeLinhas\bin\Debug\net9.0\ContadorDeLinhas.deps.json
+D:\Estudos C#\Arquivos\ContadorDeLinhas\bin\Debug\net9.0\ContadorDeLinhas.runtimeconfig.json
+D:\Estudos C#\Arquivos\ContadorDeLinhas\bin\Debug\net9.0\ContadorDeLinhas.dll
+D:\Estudos C#\Arquivos\ContadorDeLinhas\bin\Debug\net9.0\ContadorDeLinhas.pdb
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.sourcelink.json
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.dll
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\refint\ContadorDeLinhas.dll
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.pdb
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ContadorDeLinhas.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\ContadorDeLinhas\obj\Debug\net9.0\ref\ContadorDeLinhas.dll

@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\bin\Debug\net9.0\LerConteudoEImprimir.exe
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\bin\Debug\net9.0\LerConteudoEImprimir.deps.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\bin\Debug\net9.0\LerConteudoEImprimir.runtimeconfig.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\bin\Debug\net9.0\LerConteudoEImprimir.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\bin\Debug\net9.0\LerConteudoEImprimir.pdb
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.sourcelink.json
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\refint\LerConteudoEImprimir.dll
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.pdb
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\LerConteudoEImprimir.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\StreamReaderComUsing\LerConteudoEImprimir\obj\Debug\net9.0\ref\LerConteudoEImprimir.dll

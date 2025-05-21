@@ -1,0 +1,15 @@
+D:\Estudos C#\Interfaces\SistemaDePagamentos\bin\Debug\net6.0\SistemaDePagamentos.exe
+D:\Estudos C#\Interfaces\SistemaDePagamentos\bin\Debug\net6.0\SistemaDePagamentos.deps.json
+D:\Estudos C#\Interfaces\SistemaDePagamentos\bin\Debug\net6.0\SistemaDePagamentos.runtimeconfig.json
+D:\Estudos C#\Interfaces\SistemaDePagamentos\bin\Debug\net6.0\SistemaDePagamentos.dll
+D:\Estudos C#\Interfaces\SistemaDePagamentos\bin\Debug\net6.0\SistemaDePagamentos.pdb
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.AssemblyInfoInputs.cache
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.AssemblyInfo.cs
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.sourcelink.json
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.dll
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\refint\SistemaDePagamentos.dll
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.pdb
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\SistemaDePagamentos.genruntimeconfig.cache
+D:\Estudos C#\Interfaces\SistemaDePagamentos\obj\Debug\net6.0\ref\SistemaDePagamentos.dll

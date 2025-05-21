@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|d:\\estudos c#\\interfaces\\sistemadepagamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|d:\\estudos c#\\interfaces\\sistemadepagamentos\\entities\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|solutionrelative:entities\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|d:\\estudos c#\\interfaces\\sistemadepagamentos\\entities\\cartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|solutionrelative:entities\\cartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|d:\\estudos c#\\interfaces\\sistemadepagamentos\\interface\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA09A21B-D790-469B-ABF3-1B8E4657997F}|SistemaDePagamentos.csproj|solutionrelative:interface\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Entities\\Boleto.cs",
+              "RelativeDocumentMoniker": "Entities\\Boleto.cs",
+              "ToolTip": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Entities\\Boleto.cs",
+              "RelativeToolTip": "Entities\\Boleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:26:15.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartaoCredito.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Entities\\CartaoCredito.cs",
+              "RelativeDocumentMoniker": "Entities\\CartaoCredito.cs",
+              "ToolTip": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Entities\\CartaoCredito.cs",
+              "RelativeToolTip": "Entities\\CartaoCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:07:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Interface\\IPagamento.cs",
+              "RelativeDocumentMoniker": "Interface\\IPagamento.cs",
+              "ToolTip": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Interface\\IPagamento.cs",
+              "RelativeToolTip": "Interface\\IPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:06:27.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Estudos C#\\Interfaces\\SistemaDePagamentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:04:55.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
