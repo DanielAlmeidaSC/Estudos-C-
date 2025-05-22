@@ -1,0 +1,15 @@
+D:\Estudos C#\IComparable\OrdenarPorData\bin\Debug\net9.0\OrdenarPorData.exe
+D:\Estudos C#\IComparable\OrdenarPorData\bin\Debug\net9.0\OrdenarPorData.deps.json
+D:\Estudos C#\IComparable\OrdenarPorData\bin\Debug\net9.0\OrdenarPorData.runtimeconfig.json
+D:\Estudos C#\IComparable\OrdenarPorData\bin\Debug\net9.0\OrdenarPorData.dll
+D:\Estudos C#\IComparable\OrdenarPorData\bin\Debug\net9.0\OrdenarPorData.pdb
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.AssemblyInfoInputs.cache
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.AssemblyInfo.cs
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.csproj.CoreCompileInputs.cache
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.sourcelink.json
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.dll
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\refint\OrdenarPorData.dll
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.pdb
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\OrdenarPorData.genruntimeconfig.cache
+D:\Estudos C#\IComparable\OrdenarPorData\obj\Debug\net9.0\ref\OrdenarPorData.dll

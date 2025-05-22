@@ -1,0 +1,15 @@
+D:\Estudos C#\Generics\ListaGenerica\bin\Debug\net9.0\ListaGenerica.exe
+D:\Estudos C#\Generics\ListaGenerica\bin\Debug\net9.0\ListaGenerica.deps.json
+D:\Estudos C#\Generics\ListaGenerica\bin\Debug\net9.0\ListaGenerica.runtimeconfig.json
+D:\Estudos C#\Generics\ListaGenerica\bin\Debug\net9.0\ListaGenerica.dll
+D:\Estudos C#\Generics\ListaGenerica\bin\Debug\net9.0\ListaGenerica.pdb
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.AssemblyInfoInputs.cache
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.AssemblyInfo.cs
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.sourcelink.json
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.dll
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\refint\ListaGenerica.dll
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.pdb
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ListaGenerica.genruntimeconfig.cache
+D:\Estudos C#\Generics\ListaGenerica\obj\Debug\net9.0\ref\ListaGenerica.dll

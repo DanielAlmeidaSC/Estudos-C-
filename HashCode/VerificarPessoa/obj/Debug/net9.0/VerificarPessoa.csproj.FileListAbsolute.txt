@@ -1,0 +1,15 @@
+D:\Estudos C#\HashCode\VerificarPessoa\bin\Debug\net9.0\VerificarPessoa.exe
+D:\Estudos C#\HashCode\VerificarPessoa\bin\Debug\net9.0\VerificarPessoa.deps.json
+D:\Estudos C#\HashCode\VerificarPessoa\bin\Debug\net9.0\VerificarPessoa.runtimeconfig.json
+D:\Estudos C#\HashCode\VerificarPessoa\bin\Debug\net9.0\VerificarPessoa.dll
+D:\Estudos C#\HashCode\VerificarPessoa\bin\Debug\net9.0\VerificarPessoa.pdb
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.AssemblyInfoInputs.cache
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.AssemblyInfo.cs
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.csproj.CoreCompileInputs.cache
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.sourcelink.json
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.dll
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\refint\VerificarPessoa.dll
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.pdb
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\VerificarPessoa.genruntimeconfig.cache
+D:\Estudos C#\HashCode\VerificarPessoa\obj\Debug\net9.0\ref\VerificarPessoa.dll

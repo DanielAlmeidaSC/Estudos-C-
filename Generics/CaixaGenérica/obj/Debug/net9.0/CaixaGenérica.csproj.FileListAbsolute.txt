@@ -1,0 +1,15 @@
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.AssemblyInfoInputs.cache
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.AssemblyInfo.cs
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.sourcelink.json
+D:\Estudos C#\Generics\CaixaGenérica\bin\Debug\net9.0\CaixaGenérica.exe
+D:\Estudos C#\Generics\CaixaGenérica\bin\Debug\net9.0\CaixaGenérica.deps.json
+D:\Estudos C#\Generics\CaixaGenérica\bin\Debug\net9.0\CaixaGenérica.runtimeconfig.json
+D:\Estudos C#\Generics\CaixaGenérica\bin\Debug\net9.0\CaixaGenérica.dll
+D:\Estudos C#\Generics\CaixaGenérica\bin\Debug\net9.0\CaixaGenérica.pdb
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.dll
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\refint\CaixaGenérica.dll
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.pdb
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\CaixaGenérica.genruntimeconfig.cache
+D:\Estudos C#\Generics\CaixaGenérica\obj\Debug\net9.0\ref\CaixaGenérica.dll

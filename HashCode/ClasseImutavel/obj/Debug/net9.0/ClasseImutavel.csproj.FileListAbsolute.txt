@@ -1,0 +1,15 @@
+D:\Estudos C#\HashCode\ClasseImutavel\bin\Debug\net9.0\ClasseImutavel.exe
+D:\Estudos C#\HashCode\ClasseImutavel\bin\Debug\net9.0\ClasseImutavel.deps.json
+D:\Estudos C#\HashCode\ClasseImutavel\bin\Debug\net9.0\ClasseImutavel.runtimeconfig.json
+D:\Estudos C#\HashCode\ClasseImutavel\bin\Debug\net9.0\ClasseImutavel.dll
+D:\Estudos C#\HashCode\ClasseImutavel\bin\Debug\net9.0\ClasseImutavel.pdb
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.AssemblyInfoInputs.cache
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.AssemblyInfo.cs
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.csproj.CoreCompileInputs.cache
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.sourcelink.json
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.dll
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\refint\ClasseImutavel.dll
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.pdb
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ClasseImutavel.genruntimeconfig.cache
+D:\Estudos C#\HashCode\ClasseImutavel\obj\Debug\net9.0\ref\ClasseImutavel.dll

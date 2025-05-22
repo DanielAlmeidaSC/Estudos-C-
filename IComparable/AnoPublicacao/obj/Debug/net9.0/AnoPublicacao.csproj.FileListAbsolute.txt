@@ -1,0 +1,15 @@
+D:\Estudos C#\IComparable\AnoPublicacao\bin\Debug\net9.0\AnoPublicacao.exe
+D:\Estudos C#\IComparable\AnoPublicacao\bin\Debug\net9.0\AnoPublicacao.deps.json
+D:\Estudos C#\IComparable\AnoPublicacao\bin\Debug\net9.0\AnoPublicacao.runtimeconfig.json
+D:\Estudos C#\IComparable\AnoPublicacao\bin\Debug\net9.0\AnoPublicacao.dll
+D:\Estudos C#\IComparable\AnoPublicacao\bin\Debug\net9.0\AnoPublicacao.pdb
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.AssemblyInfoInputs.cache
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.AssemblyInfo.cs
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.csproj.CoreCompileInputs.cache
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.sourcelink.json
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.dll
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\refint\AnoPublicacao.dll
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.pdb
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\AnoPublicacao.genruntimeconfig.cache
+D:\Estudos C#\IComparable\AnoPublicacao\obj\Debug\net9.0\ref\AnoPublicacao.dll

@@ -1,0 +1,15 @@
+D:\Estudos C#\IComparable\OrdenarPorIdade\bin\Debug\net9.0\OrdenarPorIdade.exe
+D:\Estudos C#\IComparable\OrdenarPorIdade\bin\Debug\net9.0\OrdenarPorIdade.deps.json
+D:\Estudos C#\IComparable\OrdenarPorIdade\bin\Debug\net9.0\OrdenarPorIdade.runtimeconfig.json
+D:\Estudos C#\IComparable\OrdenarPorIdade\bin\Debug\net9.0\OrdenarPorIdade.dll
+D:\Estudos C#\IComparable\OrdenarPorIdade\bin\Debug\net9.0\OrdenarPorIdade.pdb
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.AssemblyInfoInputs.cache
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.AssemblyInfo.cs
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.csproj.CoreCompileInputs.cache
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.sourcelink.json
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.dll
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\refint\OrdenarPorIdade.dll
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.pdb
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\OrdenarPorIdade.genruntimeconfig.cache
+D:\Estudos C#\IComparable\OrdenarPorIdade\obj\Debug\net9.0\ref\OrdenarPorIdade.dll

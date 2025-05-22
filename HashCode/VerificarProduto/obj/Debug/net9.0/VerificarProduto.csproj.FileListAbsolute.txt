@@ -1,0 +1,15 @@
+D:\Estudos C#\HashCode\VerificarProduto\bin\Debug\net9.0\VerificarProduto.exe
+D:\Estudos C#\HashCode\VerificarProduto\bin\Debug\net9.0\VerificarProduto.deps.json
+D:\Estudos C#\HashCode\VerificarProduto\bin\Debug\net9.0\VerificarProduto.runtimeconfig.json
+D:\Estudos C#\HashCode\VerificarProduto\bin\Debug\net9.0\VerificarProduto.dll
+D:\Estudos C#\HashCode\VerificarProduto\bin\Debug\net9.0\VerificarProduto.pdb
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.AssemblyInfoInputs.cache
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.AssemblyInfo.cs
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.csproj.CoreCompileInputs.cache
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.sourcelink.json
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.dll
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\refint\VerificarProduto.dll
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.pdb
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\VerificarProduto.genruntimeconfig.cache
+D:\Estudos C#\HashCode\VerificarProduto\obj\Debug\net9.0\ref\VerificarProduto.dll

@@ -1,0 +1,4 @@
+Nome: [Daniel Almeida] | Idade: [20] | Cidade: [Chapecó] | Estado: [Santa Catarina]
+Nome: [Ariele Moellmann] | Idade: [21] | Cidade: [Itapiranga] | Estado: [Santa Catarina]
+Nome: [Nerci Ribeiro] | Idade: [54] | Cidade: [Ponte Serrada] | Estado: [Santa Catarina]
+Nome: [Marcos de Almeida] | Idade: [43] | Cidade: [Catanduvas] | Estado: [Santa Catarina]

@@ -1,0 +1,15 @@
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\bin\Debug\net9.0\SistemaCadastroPessoas.exe
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\bin\Debug\net9.0\SistemaCadastroPessoas.deps.json
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\bin\Debug\net9.0\SistemaCadastroPessoas.runtimeconfig.json
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\bin\Debug\net9.0\SistemaCadastroPessoas.dll
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\bin\Debug\net9.0\SistemaCadastroPessoas.pdb
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.AssemblyInfoInputs.cache
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.AssemblyInfo.cs
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.sourcelink.json
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.dll
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\refint\SistemaCadastroPessoas.dll
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.pdb
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\SistemaCadastroPessoas.genruntimeconfig.cache
+D:\Estudos C#\Arquivos\SistemaCadastroPessoas\obj\Debug\net9.0\ref\SistemaCadastroPessoas.dll
