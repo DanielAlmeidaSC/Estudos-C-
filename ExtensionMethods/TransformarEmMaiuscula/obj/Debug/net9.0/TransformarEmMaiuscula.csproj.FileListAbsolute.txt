@@ -1,0 +1,15 @@
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\bin\Debug\net9.0\TransformarEmMaiuscula.exe
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\bin\Debug\net9.0\TransformarEmMaiuscula.deps.json
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\bin\Debug\net9.0\TransformarEmMaiuscula.runtimeconfig.json
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\bin\Debug\net9.0\TransformarEmMaiuscula.dll
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\bin\Debug\net9.0\TransformarEmMaiuscula.pdb
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.AssemblyInfoInputs.cache
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.AssemblyInfo.cs
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.csproj.CoreCompileInputs.cache
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.sourcelink.json
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.dll
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\refint\TransformarEmMaiuscula.dll
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.pdb
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\TransformarEmMaiuscula.genruntimeconfig.cache
+D:\Estudos C#\ExtensionMethods\TransformarEmMaiuscula\obj\Debug\net9.0\ref\TransformarEmMaiuscula.dll

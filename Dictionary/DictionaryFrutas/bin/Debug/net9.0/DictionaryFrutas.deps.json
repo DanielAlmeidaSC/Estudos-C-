@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DictionaryFrutas/1.0.0": {
+        "runtime": {
+          "DictionaryFrutas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryFrutas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

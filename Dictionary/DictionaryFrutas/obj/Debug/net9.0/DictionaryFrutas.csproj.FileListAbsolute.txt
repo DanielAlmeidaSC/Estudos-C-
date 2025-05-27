@@ -1,0 +1,15 @@
+D:\Estudos C#\Dictionary\DictionaryFrutas\bin\Debug\net9.0\DictionaryFrutas.exe
+D:\Estudos C#\Dictionary\DictionaryFrutas\bin\Debug\net9.0\DictionaryFrutas.deps.json
+D:\Estudos C#\Dictionary\DictionaryFrutas\bin\Debug\net9.0\DictionaryFrutas.runtimeconfig.json
+D:\Estudos C#\Dictionary\DictionaryFrutas\bin\Debug\net9.0\DictionaryFrutas.dll
+D:\Estudos C#\Dictionary\DictionaryFrutas\bin\Debug\net9.0\DictionaryFrutas.pdb
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.AssemblyInfoInputs.cache
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.AssemblyInfo.cs
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.sourcelink.json
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.dll
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\refint\DictionaryFrutas.dll
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.pdb
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\DictionaryFrutas.genruntimeconfig.cache
+D:\Estudos C#\Dictionary\DictionaryFrutas\obj\Debug\net9.0\ref\DictionaryFrutas.dll

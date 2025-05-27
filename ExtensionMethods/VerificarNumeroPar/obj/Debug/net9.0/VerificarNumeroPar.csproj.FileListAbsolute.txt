@@ -1,0 +1,15 @@
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\bin\Debug\net9.0\VerificarNumeroPar.exe
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\bin\Debug\net9.0\VerificarNumeroPar.deps.json
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\bin\Debug\net9.0\VerificarNumeroPar.runtimeconfig.json
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\bin\Debug\net9.0\VerificarNumeroPar.dll
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\bin\Debug\net9.0\VerificarNumeroPar.pdb
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.AssemblyInfoInputs.cache
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.AssemblyInfo.cs
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.csproj.CoreCompileInputs.cache
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.sourcelink.json
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.dll
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\refint\VerificarNumeroPar.dll
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.pdb
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\VerificarNumeroPar.genruntimeconfig.cache
+D:\Estudos C#\ExtensionMethods\VerificarNumeroPar\obj\Debug\net9.0\ref\VerificarNumeroPar.dll

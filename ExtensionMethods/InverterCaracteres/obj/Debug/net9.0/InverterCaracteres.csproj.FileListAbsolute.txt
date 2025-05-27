@@ -1,0 +1,15 @@
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\bin\Debug\net9.0\InverterCaracteres.exe
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\bin\Debug\net9.0\InverterCaracteres.deps.json
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\bin\Debug\net9.0\InverterCaracteres.runtimeconfig.json
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\bin\Debug\net9.0\InverterCaracteres.dll
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\bin\Debug\net9.0\InverterCaracteres.pdb
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.AssemblyInfoInputs.cache
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.AssemblyInfo.cs
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.csproj.CoreCompileInputs.cache
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.sourcelink.json
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.dll
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\refint\InverterCaracteres.dll
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.pdb
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\InverterCaracteres.genruntimeconfig.cache
+D:\Estudos C#\ExtensionMethods\InverterCaracteres\obj\Debug\net9.0\ref\InverterCaracteres.dll

@@ -1,0 +1,15 @@
+D:\Estudos C#\Comparison\OrdenarInteiros\bin\Debug\net9.0\OrdenarInteiros.exe
+D:\Estudos C#\Comparison\OrdenarInteiros\bin\Debug\net9.0\OrdenarInteiros.deps.json
+D:\Estudos C#\Comparison\OrdenarInteiros\bin\Debug\net9.0\OrdenarInteiros.runtimeconfig.json
+D:\Estudos C#\Comparison\OrdenarInteiros\bin\Debug\net9.0\OrdenarInteiros.dll
+D:\Estudos C#\Comparison\OrdenarInteiros\bin\Debug\net9.0\OrdenarInteiros.pdb
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.AssemblyInfoInputs.cache
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.AssemblyInfo.cs
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.sourcelink.json
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.dll
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\refint\OrdenarInteiros.dll
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.pdb
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\OrdenarInteiros.genruntimeconfig.cache
+D:\Estudos C#\Comparison\OrdenarInteiros\obj\Debug\net9.0\ref\OrdenarInteiros.dll

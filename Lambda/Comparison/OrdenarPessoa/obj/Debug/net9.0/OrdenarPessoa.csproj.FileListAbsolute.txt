@@ -1,0 +1,15 @@
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\bin\Debug\net9.0\OrdenarPessoa.exe
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\bin\Debug\net9.0\OrdenarPessoa.deps.json
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\bin\Debug\net9.0\OrdenarPessoa.runtimeconfig.json
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\bin\Debug\net9.0\OrdenarPessoa.dll
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\bin\Debug\net9.0\OrdenarPessoa.pdb
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.AssemblyInfoInputs.cache
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.AssemblyInfo.cs
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.sourcelink.json
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.dll
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\refint\OrdenarPessoa.dll
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.pdb
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\OrdenarPessoa.genruntimeconfig.cache
+D:\Estudos C#\Lambda\Comparison\OrdenarPessoa\obj\Debug\net9.0\ref\OrdenarPessoa.dll

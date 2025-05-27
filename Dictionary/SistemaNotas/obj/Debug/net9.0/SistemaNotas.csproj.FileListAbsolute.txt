@@ -1,0 +1,15 @@
+D:\Estudos C#\Dictionary\SistemaNotas\bin\Debug\net9.0\SistemaNotas.exe
+D:\Estudos C#\Dictionary\SistemaNotas\bin\Debug\net9.0\SistemaNotas.deps.json
+D:\Estudos C#\Dictionary\SistemaNotas\bin\Debug\net9.0\SistemaNotas.runtimeconfig.json
+D:\Estudos C#\Dictionary\SistemaNotas\bin\Debug\net9.0\SistemaNotas.dll
+D:\Estudos C#\Dictionary\SistemaNotas\bin\Debug\net9.0\SistemaNotas.pdb
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.AssemblyInfoInputs.cache
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.AssemblyInfo.cs
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.sourcelink.json
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.dll
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\refint\SistemaNotas.dll
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.pdb
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\SistemaNotas.genruntimeconfig.cache
+D:\Estudos C#\Dictionary\SistemaNotas\obj\Debug\net9.0\ref\SistemaNotas.dll
