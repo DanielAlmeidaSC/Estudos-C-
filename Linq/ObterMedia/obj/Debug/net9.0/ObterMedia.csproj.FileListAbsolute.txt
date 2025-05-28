@@ -1,0 +1,15 @@
+D:\Estudos C#\Linq\ObterMedia\bin\Debug\net9.0\ObterMedia.exe
+D:\Estudos C#\Linq\ObterMedia\bin\Debug\net9.0\ObterMedia.deps.json
+D:\Estudos C#\Linq\ObterMedia\bin\Debug\net9.0\ObterMedia.runtimeconfig.json
+D:\Estudos C#\Linq\ObterMedia\bin\Debug\net9.0\ObterMedia.dll
+D:\Estudos C#\Linq\ObterMedia\bin\Debug\net9.0\ObterMedia.pdb
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.AssemblyInfoInputs.cache
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.AssemblyInfo.cs
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.sourcelink.json
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.dll
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\refint\ObterMedia.dll
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.pdb
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ObterMedia.genruntimeconfig.cache
+D:\Estudos C#\Linq\ObterMedia\obj\Debug\net9.0\ref\ObterMedia.dll

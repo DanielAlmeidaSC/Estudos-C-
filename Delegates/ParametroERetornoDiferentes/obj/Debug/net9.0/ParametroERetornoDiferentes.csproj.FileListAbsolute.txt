@@ -1,0 +1,15 @@
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\bin\Debug\net9.0\ParametroERetornoDiferentes.exe
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\bin\Debug\net9.0\ParametroERetornoDiferentes.deps.json
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\bin\Debug\net9.0\ParametroERetornoDiferentes.runtimeconfig.json
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\bin\Debug\net9.0\ParametroERetornoDiferentes.dll
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\bin\Debug\net9.0\ParametroERetornoDiferentes.pdb
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.AssemblyInfoInputs.cache
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.AssemblyInfo.cs
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.sourcelink.json
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.dll
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\refint\ParametroERetornoDiferentes.dll
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.pdb
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ParametroERetornoDiferentes.genruntimeconfig.cache
+D:\Estudos C#\Delegates\ParametroERetornoDiferentes\obj\Debug\net9.0\ref\ParametroERetornoDiferentes.dll

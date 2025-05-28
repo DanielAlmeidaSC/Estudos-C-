@@ -1,0 +1,15 @@
+D:\Estudos C#\Linq\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.exe
+D:\Estudos C#\Linq\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.deps.json
+D:\Estudos C#\Linq\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.runtimeconfig.json
+D:\Estudos C#\Linq\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.dll
+D:\Estudos C#\Linq\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.pdb
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.AssemblyInfoInputs.cache
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.AssemblyInfo.cs
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.sourcelink.json
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.dll
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\refint\OrdenarNomes.dll
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.pdb
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.genruntimeconfig.cache
+D:\Estudos C#\Linq\OrdenarNomes\obj\Debug\net9.0\ref\OrdenarNomes.dll

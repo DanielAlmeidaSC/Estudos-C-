@@ -1,0 +1,15 @@
+D:\Estudos C#\Delegates\CalcularComDelegate\bin\Debug\net9.0\CalcularComDelegate.exe
+D:\Estudos C#\Delegates\CalcularComDelegate\bin\Debug\net9.0\CalcularComDelegate.deps.json
+D:\Estudos C#\Delegates\CalcularComDelegate\bin\Debug\net9.0\CalcularComDelegate.runtimeconfig.json
+D:\Estudos C#\Delegates\CalcularComDelegate\bin\Debug\net9.0\CalcularComDelegate.dll
+D:\Estudos C#\Delegates\CalcularComDelegate\bin\Debug\net9.0\CalcularComDelegate.pdb
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.AssemblyInfoInputs.cache
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.AssemblyInfo.cs
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.sourcelink.json
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.dll
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\refint\CalcularComDelegate.dll
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.pdb
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\CalcularComDelegate.genruntimeconfig.cache
+D:\Estudos C#\Delegates\CalcularComDelegate\obj\Debug\net9.0\ref\CalcularComDelegate.dll

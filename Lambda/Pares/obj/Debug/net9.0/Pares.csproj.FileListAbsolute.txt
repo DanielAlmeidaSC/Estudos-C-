@@ -1,0 +1,15 @@
+D:\Estudos C#\Lambda\Pares\bin\Debug\net9.0\Pares.exe
+D:\Estudos C#\Lambda\Pares\bin\Debug\net9.0\Pares.deps.json
+D:\Estudos C#\Lambda\Pares\bin\Debug\net9.0\Pares.runtimeconfig.json
+D:\Estudos C#\Lambda\Pares\bin\Debug\net9.0\Pares.dll
+D:\Estudos C#\Lambda\Pares\bin\Debug\net9.0\Pares.pdb
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.AssemblyInfoInputs.cache
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.AssemblyInfo.cs
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.sourcelink.json
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.dll
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\refint\Pares.dll
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.pdb
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\Pares.genruntimeconfig.cache
+D:\Estudos C#\Lambda\Pares\obj\Debug\net9.0\ref\Pares.dll

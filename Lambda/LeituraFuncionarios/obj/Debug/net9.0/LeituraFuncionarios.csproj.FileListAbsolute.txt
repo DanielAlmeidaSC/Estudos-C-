@@ -1,0 +1,15 @@
+D:\Estudos C#\Lambda\LeituraFuncionarios\bin\Debug\net9.0\LeituraFuncionarios.exe
+D:\Estudos C#\Lambda\LeituraFuncionarios\bin\Debug\net9.0\LeituraFuncionarios.deps.json
+D:\Estudos C#\Lambda\LeituraFuncionarios\bin\Debug\net9.0\LeituraFuncionarios.runtimeconfig.json
+D:\Estudos C#\Lambda\LeituraFuncionarios\bin\Debug\net9.0\LeituraFuncionarios.dll
+D:\Estudos C#\Lambda\LeituraFuncionarios\bin\Debug\net9.0\LeituraFuncionarios.pdb
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.AssemblyInfoInputs.cache
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.AssemblyInfo.cs
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.sourcelink.json
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.dll
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\refint\LeituraFuncionarios.dll
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.pdb
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\LeituraFuncionarios.genruntimeconfig.cache
+D:\Estudos C#\Lambda\LeituraFuncionarios\obj\Debug\net9.0\ref\LeituraFuncionarios.dll

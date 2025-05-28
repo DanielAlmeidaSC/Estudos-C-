@@ -1,0 +1,15 @@
+D:\Estudos C#\Lambda\Dobro\bin\Debug\net9.0\Dobro.exe
+D:\Estudos C#\Lambda\Dobro\bin\Debug\net9.0\Dobro.deps.json
+D:\Estudos C#\Lambda\Dobro\bin\Debug\net9.0\Dobro.runtimeconfig.json
+D:\Estudos C#\Lambda\Dobro\bin\Debug\net9.0\Dobro.dll
+D:\Estudos C#\Lambda\Dobro\bin\Debug\net9.0\Dobro.pdb
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.AssemblyInfoInputs.cache
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.AssemblyInfo.cs
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.sourcelink.json
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.dll
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\refint\Dobro.dll
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.pdb
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\Dobro.genruntimeconfig.cache
+D:\Estudos C#\Lambda\Dobro\obj\Debug\net9.0\ref\Dobro.dll

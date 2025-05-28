@@ -1,0 +1,15 @@
+D:\Estudos C#\Delegates\EstaticosEInstancia\bin\Debug\net9.0\EstaticosEInstancia.exe
+D:\Estudos C#\Delegates\EstaticosEInstancia\bin\Debug\net9.0\EstaticosEInstancia.deps.json
+D:\Estudos C#\Delegates\EstaticosEInstancia\bin\Debug\net9.0\EstaticosEInstancia.runtimeconfig.json
+D:\Estudos C#\Delegates\EstaticosEInstancia\bin\Debug\net9.0\EstaticosEInstancia.dll
+D:\Estudos C#\Delegates\EstaticosEInstancia\bin\Debug\net9.0\EstaticosEInstancia.pdb
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.AssemblyInfoInputs.cache
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.AssemblyInfo.cs
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.sourcelink.json
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.dll
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\refint\EstaticosEInstancia.dll
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.pdb
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\EstaticosEInstancia.genruntimeconfig.cache
+D:\Estudos C#\Delegates\EstaticosEInstancia\obj\Debug\net9.0\ref\EstaticosEInstancia.dll

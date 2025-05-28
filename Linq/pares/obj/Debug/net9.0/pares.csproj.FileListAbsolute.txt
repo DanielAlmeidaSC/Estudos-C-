@@ -1,0 +1,15 @@
+D:\Estudos C#\Linq\pares\bin\Debug\net9.0\pares.exe
+D:\Estudos C#\Linq\pares\bin\Debug\net9.0\pares.deps.json
+D:\Estudos C#\Linq\pares\bin\Debug\net9.0\pares.runtimeconfig.json
+D:\Estudos C#\Linq\pares\bin\Debug\net9.0\pares.dll
+D:\Estudos C#\Linq\pares\bin\Debug\net9.0\pares.pdb
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.AssemblyInfoInputs.cache
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.AssemblyInfo.cs
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.sourcelink.json
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.dll
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\refint\pares.dll
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.pdb
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\pares.genruntimeconfig.cache
+D:\Estudos C#\Linq\pares\obj\Debug\net9.0\ref\pares.dll

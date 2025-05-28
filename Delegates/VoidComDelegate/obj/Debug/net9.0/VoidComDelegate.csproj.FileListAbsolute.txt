@@ -1,0 +1,15 @@
+D:\Estudos C#\Delegates\VoidComDelegate\bin\Debug\net9.0\VoidComDelegate.exe
+D:\Estudos C#\Delegates\VoidComDelegate\bin\Debug\net9.0\VoidComDelegate.deps.json
+D:\Estudos C#\Delegates\VoidComDelegate\bin\Debug\net9.0\VoidComDelegate.runtimeconfig.json
+D:\Estudos C#\Delegates\VoidComDelegate\bin\Debug\net9.0\VoidComDelegate.dll
+D:\Estudos C#\Delegates\VoidComDelegate\bin\Debug\net9.0\VoidComDelegate.pdb
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.AssemblyInfoInputs.cache
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.AssemblyInfo.cs
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.sourcelink.json
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.dll
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\refint\VoidComDelegate.dll
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.pdb
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\VoidComDelegate.genruntimeconfig.cache
+D:\Estudos C#\Delegates\VoidComDelegate\obj\Debug\net9.0\ref\VoidComDelegate.dll

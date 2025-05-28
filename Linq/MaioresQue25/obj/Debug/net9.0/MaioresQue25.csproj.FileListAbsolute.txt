@@ -1,0 +1,15 @@
+D:\Estudos C#\Linq\MaioresQue25\bin\Debug\net9.0\MaioresQue25.exe
+D:\Estudos C#\Linq\MaioresQue25\bin\Debug\net9.0\MaioresQue25.deps.json
+D:\Estudos C#\Linq\MaioresQue25\bin\Debug\net9.0\MaioresQue25.runtimeconfig.json
+D:\Estudos C#\Linq\MaioresQue25\bin\Debug\net9.0\MaioresQue25.dll
+D:\Estudos C#\Linq\MaioresQue25\bin\Debug\net9.0\MaioresQue25.pdb
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.AssemblyInfoInputs.cache
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.AssemblyInfo.cs
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.sourcelink.json
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.dll
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\refint\MaioresQue25.dll
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.pdb
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\MaioresQue25.genruntimeconfig.cache
+D:\Estudos C#\Linq\MaioresQue25\obj\Debug\net9.0\ref\MaioresQue25.dll

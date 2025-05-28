@@ -1,0 +1,15 @@
+D:\Estudos C#\Lambda\OrdenarStrings\bin\Debug\net9.0\OrdenarStrings.exe
+D:\Estudos C#\Lambda\OrdenarStrings\bin\Debug\net9.0\OrdenarStrings.deps.json
+D:\Estudos C#\Lambda\OrdenarStrings\bin\Debug\net9.0\OrdenarStrings.runtimeconfig.json
+D:\Estudos C#\Lambda\OrdenarStrings\bin\Debug\net9.0\OrdenarStrings.dll
+D:\Estudos C#\Lambda\OrdenarStrings\bin\Debug\net9.0\OrdenarStrings.pdb
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.AssemblyInfoInputs.cache
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.AssemblyInfo.cs
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.csproj.CoreCompileInputs.cache
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.sourcelink.json
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.dll
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\refint\OrdenarStrings.dll
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.pdb
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\OrdenarStrings.genruntimeconfig.cache
+D:\Estudos C#\Lambda\OrdenarStrings\obj\Debug\net9.0\ref\OrdenarStrings.dll
